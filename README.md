@@ -1,6 +1,9 @@
 <div align="center">
-  <img src="./github.jpeg" width="100%">
+  <img src="https://raw.githubusercontent.com/Varalakshmi74/Varalakshmi74/main/github.jpeg" width="100%" alt="Anime Background">
 </div>
+
+<br>
+
 # ✨ Hi, I'm Varalakshmi 🦋
 
 ### 💻 Computer Science Student  |  🤖 AI/ML Enthusiast
