@@ -1,7 +1,6 @@
 <div align="center">
-<img src="./anime-bg.png" width="100%" alt="./anime-bg.png">
+<img src="./anime-bg.png" width="100%">
 </div>
-
 # ✨ Hi, I'm Varalakshmi 🦋
 
 ### 💻 Computer Science Student  |  🤖 AI/ML Enthusiast
