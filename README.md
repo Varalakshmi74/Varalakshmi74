@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./anime-bg.png" width="100%" alt="Anime Background">
+<img src="./anime-bg.png" width="100%" alt="./anime-bg.png">
 </div>
 
 # ✨ Hi, I'm Varalakshmi 🦋
