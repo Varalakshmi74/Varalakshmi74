@@ -1,9 +1,6 @@
 <div align="center">
-
-<!-- 🌌 ANIME NIGHT BACKGROUND -->
-<img src="./anime-bg.gif" width="100%" alt="Anime Night Background">
-
-<br><br>
+<img src="./anime-bg.png" width="100%" alt="Anime Background">
+</div>
 
 # ✨ Hi, I'm Varalakshmi 🦋
 
