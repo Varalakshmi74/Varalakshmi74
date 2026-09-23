@@ -209,12 +209,12 @@ Learning • Creating • Exploring • Growing 🌸
 
 </div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Varalakshmi74/Varalakshmi74/output/github-snake-dark.svg" width="100%">
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://media.tenor.com/8Kj4bY8xV4AAAAAC/anime-girl-hi.gif" width="220">
-</p>
+<img src="https://github-readme-utils.vercel.app/api/gif/anime" width="220" alt="Anime Girl Hii"/>
 
-<h2 align="center">🌸 Hii! Welcome to my GitHub 🩷</h2>
+<h2>🌸 Hii! Welcome to my GitHub 🩷</h2>
+
+<img src="https://raw.githubusercontent.com/Varalakshmi74/Varalakshmi74/output/github-snake-dark.svg" width="100%" alt="Contribution Graph"/>
+
+</div>
