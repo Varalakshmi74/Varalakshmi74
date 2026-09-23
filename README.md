@@ -86,20 +86,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:ff69b4,100:000000&height=120&section=footer"/>
 
 </div>
-## 🩷 𝑮𝒊𝒕𝑯𝒖𝒃 𝑪𝒐𝒏𝒕𝒓𝒊𝒃𝒖𝒕𝒊𝒐𝒏𝒔
+## 🩷 𝟑𝑫 𝑺𝒏𝒂𝒌𝒆 𝑪𝒐𝒏𝒕𝒓𝒊𝒃𝒖𝒕𝒊𝒐𝒏 🐍
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Varalakshmi74&bg_color=000000&color=ff69b4&line=ff69b4&point=ffffff&area=true&hide_border=true"/>
-
+  <img src="https://raw.githubusercontent.com/Varalakshmi74/Varalakshmi74/output/github-contribution-grid-snake-dark.svg" width="100%">
 </p>
 
 🌸 ───────────────────────────── 🌸
-
-### 🖤 𝑴𝒚 𝑮𝒊𝒕𝑯𝒖𝒃 𝑨𝒄𝒕𝒊𝒗𝒊𝒕𝒚
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Varalakshmi74&theme=radical"/>
-
-</p>
