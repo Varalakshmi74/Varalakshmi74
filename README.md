@@ -31,6 +31,9 @@ Learning • Creating • Exploring • Growing 🌸
 ✨ Love creating creative & useful projects  
 
 </td>
+<p align="center">
+  <img src="./anime-girl.gif" width="250" alt="Hii">
+</p>
 
 <td width="35%">
 
