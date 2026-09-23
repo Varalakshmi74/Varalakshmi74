@@ -1,133 +1,126 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24&text=VARALAKSHMI%20UDHAYAKUMAR&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20%7C%20ML%20%7C%20FULL%20STACK%20DEVELOPER&descAlignY=62&descSize=18"/>
+<br>
+
+<!-- 🌸 3D FLOWER ANIME HERO -->
+
+<div style="
+background: linear-gradient(135deg,#fff0f8,#f5e6ff,#ffe6f2,#f8efff);
+padding:35px 20px;
+border-radius:30px;
+box-shadow:0 15px 40px rgba(180,100,180,0.25);
+">
+
+<img src="./anime-girl-hi.gif"
+     width="190"
+     alt="Anime Girl Saying Hi">
+
+<br><br>
+
+<!-- 🌷 FLOWER DECORATION -->
+
+🌸 🌷 🌺 🦋 ✨ 🌸 🌷 🌺 🦋 ✨ 🌸
+
+<br><br>
+
+<!-- 💗 NAME -->
+
+<h1 style="
+font-family:cursive;
+font-size:45px;
+color:#ff4fa3;
+text-shadow:3px 3px 0 #ffd1e8,
+             6px 6px 15px rgba(255,80,160,0.35);
+">
+Varalakshmi Udhayakumar
+</h1>
+
+<h3 style="
+font-family:Georgia;
+color:#9b59b6;
+letter-spacing:3px;
+">
+AI/ML • FULL STACK • PYTHON • CREATIVE DEVELOPER
+</h3>
 
 <br>
 
-<img src="./anime-girl-hi.gif" width="170" alt="Anime Girl Waving">
+<!-- ✨ 3D STYLE TAGS -->
+
+<img src="https://img.shields.io/badge/AI%20%26%20ML-ff69b4?style=for-the-badge&logoColor=white">
+
+<img src="https://img.shields.io/badge/Frontend-b57edc?style=for-the-badge&logoColor=white">
+
+<img src="https://img.shields.io/badge/Backend-ff8fab?style=for-the-badge&logoColor=white">
+
+<img src="https://img.shields.io/badge/Database-8e7dff?style=for-the-badge&logoColor=white">
+
+<br><br>
+
+🌸 🦋 🌷 ✨ 🌺 🌸 🦋 🌷 ✨ 🌺 🌸
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=25&duration=2500&pause=800&color=FF69B4&center=true&vCenter=true&width=700&lines=Hi+there!+%F0%9F%91%8B;Welcome+to+my+little+coding+garden+%F0%9F%8C%B8;Let's+build+something+beautiful+%E2%9C%A8">
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=32&duration=2500&pause=800&color=FF69B4&center=true&vCenter=true&width=850&height=65&lines=Hi%2C+I'm+Varalakshmi+Udhayakumar+%F0%9F%91%8B;Welcome+to+my+GitHub+%F0%9F%8C%B8;Let's+Build+Something+Amazing+%E2%9C%A8"/>
+🌷 ✨ 🌸 🦋 🌺 ✨ 🌷 🌸 🦋 🌺
 
-🌸 🦋 ✨ 🌷 🌸 🦋 ✨ 🌷 🌸
+</div>
 
 </div>
 
 ---
 
-<div align="center">
+## 🌸 Technical Skills
 
-## 🌸 About Me 🌸
-
-### 💻 AI/ML Enthusiast • Full Stack Developer • Creative Problem Solver
-
-🌷 Computer Science Student
-🤖 Exploring Artificial Intelligence & Machine Learning
-🎨 Building beautiful Frontend experiences
-⚙️ Exploring Backend technologies
-🗄️ Working with Databases
-🐍 Python Developer
-🧠 Practicing Problem Solving & DSA
-🚀 Turning ideas into real-world projects
-
-</div>
-
----
-
-<div align="center">
-
-# 🌺 TECHNICAL SKILLS 🌺
-
-</div>
-
-### 🎨 Frontend Development
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
-</p>
-
-<p align="center">
+### 🎨 Frontend
 HTML5 • CSS3 • JavaScript • React • Bootstrap • Tailwind CSS
-</p>
 
----
+### ⚙️ Backend
+Python • Java • Node.js • Express.js • Flask • REST API
 
-### ⚙️ Backend Development
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,nodejs,java,flask,express" />
-</p>
-
-<p align="center">
-Python • Java • Node.js • Express.js • Flask • REST APIs
-</p>
-
----
-
-### 🗄️ Database & Data Management
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,postgresql" />
-</p>
-
-<p align="center">
-MySQL • MongoDB • SQLite • PostgreSQL • Database Design • SQL
-</p>
-
----
+### 🗄️ Database
+MySQL • MongoDB • SQLite • PostgreSQL • SQL
 
 ### 🤖 AI / Machine Learning
+Python • Machine Learning • Deep Learning • TensorFlow • OpenCV • Data Analysis
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,pytorch" />
-</p>
-
-<p align="center">
-Machine Learning • Deep Learning • Computer Vision • OpenCV • TensorFlow • PyTorch
-</p>
-
----
-
-### 💻 Programming Languages
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript" />
-</p>
-
-<p align="center">
+### 💻 Programming
 Python • Java • C • C++ • JavaScript
-</p>
-
----
 
 ### ☁️ Cloud & Deployment
+AWS • Docker • Vercel • Netlify
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=aws,vercel,netlify,docker" />
-</p>
-
-<p align="center">
-AWS • Vercel • Netlify • Docker • Deployment
-</p>
-
----
-
-### 🛠️ Development Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
-</p>
-
-<p align="center">
+### 🛠️ Tools
 Git • GitHub • VS Code • Postman • Figma
-</p>
+
+### 🧠 Core CS
+DSA • OOP • DBMS • Operating Systems • Computer Networks • Software Engineering
 
 ---
 
-### 🧠 Core Computer Science
+<div align="center">
 
-<p align="center">
+🌸 🌷 🌺 🦋 ✨ 🌸 🌷 🌺 🦋 ✨ 🌸
 
-![DSA](https://img.shields.io/badge/DSA-FF69B4?style=for-the-badge)
-![OOP](https://i)
+### 💗 Let's Connect 💗
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID/">
+<img src="https://img.shields.io/badge/LINKEDIN-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://leetcode.com/YOUR-LEETCODE-ID/">
+<img src="https://img.shields.io/badge/LEETCODE-ffa116?style=for-the-badge&logo=leetcode&logoColor=white">
+</a>
+
+<a href="https://github.com/Varalakshmi74">
+<img src="https://img.shields.io/badge/GITHUB-8e7dff?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<br><br>
+
+🌸 **Connect • Collaborate • Create** 🌸
+
+</div>
