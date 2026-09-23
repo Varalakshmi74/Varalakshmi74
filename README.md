@@ -209,4 +209,12 @@ Learning • Creating • Exploring • Growing 🌸
 
 </div>
 
-    ![Contribution Snake](https://raw.githubusercontent.com/Varalakshmi74/Varalakshmi74/output/github-snake-dark.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Varalakshmi74/Varalakshmi74/output/github-snake-dark.svg" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://media.tenor.com/8Kj4bY8xV4AAAAAC/anime-girl-hi.gif" width="220">
+</p>
+
+<h2 align="center">🌸 Hii! Welcome to my GitHub 🩷</h2>
