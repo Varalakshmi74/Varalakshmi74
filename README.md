@@ -208,36 +208,5 @@ Learning • Creating • Exploring • Growing 🌸
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer&fontColor=ff69b4"/>
 
 </div>
-name: Generate Contribution Snake
 
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-
-    permissions:
-      contents: write
-
-    steps:
-      - name: Generate Pink Snake
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: Varalakshmi74
-          outputs: |
-            dist/github-snake.svg?color_snake=#ff69b4&color_dots=#14000a,#3a001f,#7a164f,#ff4fa3,#ffb6d9
-            dist/github-snake-dark.svg?color_snake=#ff69b4&color_dots=#14000a,#3a001f,#7a164f,#ff4fa3,#ffb6d9
-
-      - name: Publish Snake
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    ![Contribution Snake](https://raw.githubusercontent.com/Varalakshmi74/Varalakshmi74/output/github-snake-dark.svg)
