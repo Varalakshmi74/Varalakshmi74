@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌸🖤 𝑽𝑨𝑹𝑨𝑳𝑨𝑲𝑺𝑯𝑴𝑰 𝑼𝑫𝑯𝒀𝑨𝑲𝑼𝑴𝑨𝑹 🖤🌸
+# 🌸🖤 𝑽𝑨𝑹𝑨𝑳𝑨𝑲𝑺𝑯𝑴𝑰 𝑼𝑫𝑯A𝒀𝑨𝑲𝑼𝑴𝑨𝑹 🖤🌸
 
 ### ✨ 𝑨𝑰 & 𝑴𝑳 𝑬𝒏𝒕𝒉𝒖𝒔𝒊𝒂𝒔𝒕 | 💻 𝑻𝒆𝒄𝒉 𝑳𝒐𝒗𝒆𝒓 | 🌷 𝑭𝒖𝒕𝒖𝒓𝒆 𝑰𝑻 𝑷𝒓𝒐𝒇𝒆𝒔𝒔𝒊𝒐𝒏𝒂𝒍
 
@@ -86,3 +86,20 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:ff69b4,100:000000&height=120&section=footer"/>
 
 </div>
+## 🩷 𝑮𝒊𝒕𝑯𝒖𝒃 𝑪𝒐𝒏𝒕𝒓𝒊𝒃𝒖𝒕𝒊𝒐𝒏𝒔
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Varalakshmi74&bg_color=000000&color=ff69b4&line=ff69b4&point=ffffff&area=true&hide_border=true"/>
+
+</p>
+
+🌸 ───────────────────────────── 🌸
+
+### 🖤 𝑴𝒚 𝑮𝒊𝒕𝑯𝒖𝒃 𝑨𝒄𝒕𝒊𝒗𝒊𝒕𝒚
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Varalakshmi74&theme=radical"/>
+
+</p>
