@@ -4,6 +4,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=VARALAKSHMI%20UDHYAKUMAR&fontSize=42&fontColor=ff69b4&animation=fadeIn&fontAlignY=38"/>
 
 <h2>🌸 𝑽𝒂𝒓𝒂𝒍𝒂𝒌𝒔𝒉𝒎𝒊 𝑼𝒅𝒉𝒚𝒂𝒌𝒖𝒎𝒂𝒓 🌸</h2>
+<p align="center">
+  <img src="./anime-girl.gif" width="250" alt="Hii">
+</p>
 
 <h3>💻 Computer Science Student • 🤖 AI & ML • 🌸 Tech Enthusiast</h3>
 
@@ -31,9 +34,6 @@ Learning • Creating • Exploring • Growing 🌸
 ✨ Love creating creative & useful projects  
 
 </td>
-<p align="center">
-  <img src="./anime-girl.gif" width="250" alt="Hii">
-</p>
 
 <td width="35%">
 
