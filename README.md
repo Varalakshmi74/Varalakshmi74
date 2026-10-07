@@ -1,325 +1,150 @@
-Create an extremely attractive GitHub Profile README.md that visually looks like a PREMIUM 3D PERSONAL PORTFOLIO WEBSITE when my GitHub profile is opened.
+Create my GitHub Profile README.md to visually match the attached reference image as closely as possible.
 
-DO NOT make it look like a normal README.
-The entire profile should feel like a beautifully designed interactive webpage/3D portfolio.
-
-MY DETAILS:
-Name: Varalakshmi Udhayakumar
-GitHub Username: Varalakshmi74
-
-========================
-🎀 OVERALL DESIGN
-========================
-
-Use a premium:
+IMPORTANT:
+The attached image is the exact visual inspiration. Recreate the SAME overall:
+- Layout
+- Section arrangement
 - Black background
-- Hot pink + soft pink + purple + white theme
-- 3D glassmorphism design
-- 3D cards
-- 3D glowing borders
-- Neon pink lighting
-- Soft shadows
-- Depth effects
-- Floating elements
-- Beautiful gradients
-- Futuristic portfolio appearance
+- Neon pink + purple colors
+- 3D/glassmorphism cards
+- Typography hierarchy
+- Anime girl stickers
+- Flower decorations
+- Butterflies
+- Stars and sparkles
+- Glowing borders
+- 3D buttons
+- Dashboard-style GitHub stats
+- Project cards
+- Footer design
 
-The page should feel like:
-"3D Anime Girl + Pink Neon Developer Portfolio"
+Do NOT make a basic README.
+Make the GitHub profile look like a premium anime 3D portfolio webpage.
 
-========================
-✨ DIFFERENT FONTS
-========================
+MY NAME:
+Varalakshmi Udhayakumar
 
-DO NOT use the same font everywhere.
+GITHUB:
+Varalakshmi74
 
-Create visual font variation:
+REFERENCE IMAGE REQUIREMENT:
+Follow the attached image's visual composition and aesthetic closely.
 
-- My name → elegant luxury/cursive style
-- Main headings → bold futuristic font
-- Subheadings → stylish modern font
-- Normal text → clean professional font
-- Small labels → futuristic/tech font
-- Buttons → bold rounded font
+HEADER:
+Large glowing:
+"VARALAKSHMI UDHYAKUMAR"
 
-Use different font styles, font sizes, letter spacing and text effects to create a premium design.
+Use elegant/cursive typography with:
+- VARALAKSHMI → hot pink
+- UDHYAKUMAR → purple/lavender
 
-Important:
-If external fonts cannot work properly on GitHub README, use visually different font styles using HTML, Markdown, images or SVG-based text where possible.
+Add a large cute anime girl developer sticker holding a laptop.
 
-========================
-🌸 3D HERO SECTION
-========================
+Add flowers around her exactly like the reference style.
 
-Create a HUGE premium hero section at the top.
+ABOUT ME:
+Create a large glowing glass card with an anime girl sticker on the right.
 
-Display:
+CORE EXPERTISE:
+Create 3 floating 3D cards:
+Programming
+AI & ML
+Web
 
-"Hi 👋"
-"I'm Varalakshmi Udhayakumar"
+TECHNICAL SKILLS:
+Create multiple compact glowing skill cards:
+Languages
+Frontend
+Backend
+Database
+Tools
 
-Make my name VERY LARGE with:
-- 3D text effect
-- Pink neon glow
-- Shadow
-- Gradient effect
-- Different stylish font
-- Letter spacing
+PROJECTS:
+Create 6 premium 3D project cards:
 
-Subtitle:
-
-"Computer Science Student | AI/ML Enthusiast | Full Stack Developer"
-
-Add a LARGE 3D anime girl developer character.
-
-The anime girl should:
-- Look like a 3D character
-- Be holding a laptop
-- Have a cute developer aesthetic
-- Have pink/purple lighting
-- Have glowing effects
-- Look like she is saying "Hi 👋"
-
-Place the anime girl on one side and my introduction on the other side.
-
-Make the anime girl look like a 3D sticker floating above the page.
-
-Add:
-🌸 flowers
-🌷 flower stickers
-🌺 cute stickers
-✨ stars
-💫 sparkles
-💗 hearts
-
-around the character.
-
-========================
-🌷 FLOATING 3D DECORATIONS
-========================
-
-Throughout the page add decorative elements:
-
-- 3D flowers
-- Floating flower stickers
-- Pink butterflies
-- Stars
-- Sparkles
-- Hearts
-- Small anime stickers
-- Glowing particles
-
-Place them naturally around sections.
-
-Do NOT overcrowd the content.
-
-The decorations should make the page feel like a 3D animated portfolio.
-
-========================
-💗 ABOUT ME
-========================
-
-Create a large 3D glass card.
-
-Title:
-
-"🌸 About Me"
-
-Use a different stylish font for the title.
-
-Inside:
-Write a short simple student-style introduction.
-
-Mention:
-- Artificial Intelligence
-- Machine Learning
-- Web Development
-- Software Development
-- Computer Networks
-- NLP
-- Text & Speech Analysis
-- Problem Solving
-
-Add a small 3D anime sticker in the corner of the card.
-
-========================
-💻 TECHNICAL SKILLS
-========================
-
-Create a 3D skill dashboard.
-
-Use individual floating cards for:
-
-FRONTEND
-HTML
-CSS
-JavaScript
-React
-
-BACKEND
-Python
-Java
-Node.js
-Express.js
-
-DATABASE
-MySQL
-MongoDB
-
-AI / ML
-Python
-Machine Learning
-NLP
-
-TOOLS
-Git
-GitHub
-VS Code
+SelfAdapt AI
+Industrial Fire Safety System
+ScamShield AI
+Student Study Assistant
+Cloud Ambulance Route Optimization
+Online Gaming Network Latency Monitor
 
 Each card should have:
-- 3D effect
-- Neon border
-- Technology icon
-- Pink glow
-- Different heading font
-
-========================
-🚀 PROJECTS
-========================
-
-Create a premium 3D project showcase.
-
-Projects:
-
-🌸 SelfAdapt AI
-🔥 Industrial Fire Safety System
-🛡️ ScamShield AI
-📚 Student Study Assistant
-🚑 Cloud Ambulance Route Optimization
-🎮 Online Gaming Network Latency Monitor
-
-Make each project look like a 3D portfolio card.
-
-Each card must include:
-- Project name
+- Icon
+- Project title
 - Short description
-- Technologies
+- Technology badges
 - GitHub button
-- Cute small sticker
-- Pink glow
-- 3D depth
+- Small anime/flower decoration
 
-========================
-📊 GITHUB DASHBOARD
-========================
+GITHUB DASHBOARD:
+Create a dashboard-style section containing:
+- GitHub Stats
+- Top Languages
+- GitHub Streak
+- Profile Views
+- Achievements
+- Contribution Graph
+- Contribution Snake
 
-Create a futuristic 3D dashboard section.
-
-Include:
-
-GitHub Stats
-Top Languages
-GitHub Streak
-Contribution Graph
-
-Make them look like floating glass panels.
-
-Add pink/purple glow around the panels.
-
-========================
-🏆 ACHIEVEMENTS
-========================
-
-Create floating 3D cards for:
-
-🏆 Hackathons
-🤖 AI Projects
-💻 Web Development
-🧠 Problem Solving
-🌐 Computer Networks
-
-========================
-🚀 CURRENTLY LEARNING
-========================
-
-Create a 3D futuristic card:
-
-"🚀 Currently Learning"
-
+CURRENTLY LEARNING:
+Create a glowing card with:
 Advanced AI/ML
 Full Stack Development
 NLP
 Cloud Technologies
 Cyber Security
 
-Add a cute 3D anime girl sitting with a laptop near this section.
+Add a cute anime girl studying with a laptop.
 
-========================
-🔗 SOCIAL BUTTONS
-========================
-
-Create premium 3D glowing buttons:
-
+CONTACT:
+Create large neon 3D buttons:
 GitHub
 LinkedIn
 LeetCode
 Email
 
-Buttons should have:
-- 3D depth
-- Neon pink glow
-- Rounded corners
-- Icons
-- Different hover-style appearance where GitHub supports it
+FOOTER:
+Use the same aesthetic as the reference:
+"Code • Create • Innovate"
 
-========================
-🌺 FOOTER
-========================
+Then:
+"VARALAKSHMI UDHYAKUMAR"
 
-Create a beautiful final section.
+Add flowers, butterflies and a waving anime girl.
 
-Text:
+TYPOGRAPHY:
+Use visually different fonts/styles for:
+- Name
+- Main headings
+- Subheadings
+- Body text
+- Buttons
+- Project titles
 
-"✨ Building ideas • Learning every day • Creating the future ✨"
+Use:
+Hot Pink
+Baby Pink
+Purple
+Lavender
+White
 
-Add:
+IMPORTANT GITHUB LIMITATION:
+Use only GitHub-supported HTML, Markdown, SVG, GIF and image techniques.
+Do not create a separate HTML website.
+Everything must be inside README.md.
 
-🌸 🌷 🌺 💗 ✨ 🌸 🌷 🌺
+If a true 3D effect cannot be implemented directly in GitHub Markdown, simulate it using:
+- Images
+- SVG
+- Gradients
+- Shadows
+- Neon borders
+- Glassmorphism
+- 3D-style graphics
 
-Place a small cute anime girl sticker near the footer.
+Use reliable image URLs and avoid broken images.
 
-========================
-⭐ MOST IMPORTANT
-========================
-
-When someone opens my GitHub profile:
-
-IT SHOULD LOOK LIKE A FULL 3D PORTFOLIO WEBSITE.
-
-It should NOT feel like:
-❌ boring README
-❌ plain Markdown
-❌ simple text
-❌ basic GitHub profile
-
-It SHOULD feel like:
-✅ premium portfolio
-✅ 3D website
-✅ anime aesthetic
-✅ pink neon developer theme
-✅ glassmorphism
-✅ different fonts
-✅ 3D cards
-✅ 3D anime girl
-✅ flower stickers
-✅ floating decorations
-✅ glowing effects
-✅ professional developer profile
-
-Use GitHub-supported HTML, Markdown, SVG, GIF and images wherever possible.
-
-Avoid broken image links.
-
-Make everything responsive within GitHub README limitations.
+Make the final README as visually close to the attached reference image as GitHub allows.
 
 OUTPUT ONLY THE COMPLETE README.md CODE.
