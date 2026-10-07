@@ -268,11 +268,6 @@ Responsive UI
 
 
 
-
-# 🎀🌸🩷 𝐋𝐄𝐓'𝐒 𝐂𝐎𝐍𝐍𝐄𝐂𝐓 🩷🌸🎀
-
-<div align="center">
-
 # 🎀🌸🩷 𝐋𝐄𝐓'𝐒 𝐂𝐎𝐍𝐍𝐄𝐂𝐓 🩷🌸🎀
 
 <img src="./anime-girl.gif" width="145" alt="Anime Girl"/>
@@ -400,9 +395,6 @@ Responsive UI
 </div>
 
 
-
-<h3>🌸 𝐕𝐀𝐑𝐀𝐋𝐀𝐊𝐒𝐇𝐌𝐈 𝐔𝐃𝐇𝐘𝐀𝐊𝐔𝐌𝐀𝐑 🌸</h3>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:800080,50:ff1493,100:000000&height=120&section=footer"/>
 
 </div>
@@ -487,10 +479,7 @@ Responsive UI
 ---
 <div align="center">
 
-# 🎮🌸 𝐂𝐎𝐃𝐈𝐍𝐆 𝐆𝐀𝐌𝐄 𝐙𝐎𝐍𝐄 🌸🎮
-<div align="center">
-
-# 🎮🌸🩷 𝐂𝐎𝐃𝐈𝐍𝐆 𝐆𝐀𝐌𝐄 𝐙𝐎𝐍𝐄 🩷🌸🎮
+🌸🎮# 🎮🌸🩷 𝐂𝐎𝐃𝐈𝐍𝐆 𝐆𝐀𝐌𝐄 𝐙𝐎𝐍𝐄 🩷
 
 <table>
 <tr>
