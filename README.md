@@ -378,7 +378,7 @@ Responsive UI
 🌸 🩷 🖤 💜 🎀 🦋 ✨ 🌷 ✨ 🦋 🎀 💜 🖤 🩷 🌸
 
 </div>
-<h3>🌸 𝐕𝐀𝐑𝐀𝐋𝐀𝐊𝐒𝐇𝐌𝐈 𝐔𝐃𝐇𝐘𝐀𝐊𝐔𝐌𝐀𝐑 🌸</h3>
+
 
 <p>
 <b>🩷 𝑨𝑰 & 𝑴𝑳</b> &nbsp; ✦ &nbsp;
@@ -392,7 +392,6 @@ Responsive UI
 </div>
 
 
-🌸 ───────── 🩷 ───────── 💜 ───────── 🌸
 
 <h2>𝓒𝓸𝓭𝓮 • 𝓒𝓻𝓮𝓪𝓽𝓮 • 𝓟𝓵𝓪𝔂 • 𝓘𝓷𝓷𝓸𝓿𝓪𝓽𝓮 💗</h2>
 
@@ -400,9 +399,7 @@ Responsive UI
 
 </div>
 
-🌸 🩷 🖤 💜 🎀 ✨ 🌸 🩷 🖤 💜 🎀 ✨ 🌸
 
-<h2>𝓒𝓸𝓭𝓮 • 𝓒𝓻𝓮𝓪𝓽𝓮 • 𝓟𝓵𝓪𝔂 • 𝓘𝓷𝓷𝓸𝓿𝓪𝓽𝓮 💗</h2>
 
 <h3>🌸 𝐕𝐀𝐑𝐀𝐋𝐀𝐊𝐒𝐇𝐌𝐈 𝐔𝐃𝐇𝐘𝐀𝐊𝐔𝐌𝐀𝐑 🌸</h3>
 
@@ -491,7 +488,75 @@ Responsive UI
 <div align="center">
 
 # 🎮🌸 𝐂𝐎𝐃𝐈𝐍𝐆 𝐆𝐀𝐌𝐄 𝐙𝐎𝐍𝐄 🌸🎮
+<div align="center">
 
+# 🎮🌸🩷 𝐂𝐎𝐃𝐈𝐍𝐆 𝐆𝐀𝐌𝐄 𝐙𝐎𝐍𝐄 🩷🌸🎮
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+<img src="./anime-girl.gif" width="100" alt="Anime Sticker"/>
+
+### 🎯
+**𝐏𝐑𝐎𝐁𝐋𝐄𝐌 𝐒𝐎𝐋𝐕𝐄𝐑**
+
+🧠 Think  
+💡 Solve  
+⚡ Code
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="./anime-girl.gif" width="100" alt="Anime Sticker"/>
+
+### 💻
+**𝐂𝐎𝐃𝐄 𝐁𝐔𝐈𝐋𝐃𝐄𝐑**
+
+🐍 Python  
+☕ Java  
+⚡ C / C++
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="./anime-girl.gif" width="100" alt="Anime Sticker"/>
+
+### 🤖
+**𝐀𝐈 𝐄𝐗𝐏𝐋𝐎𝐑𝐄𝐑**
+
+🧠 AI & ML  
+👁️ Computer Vision  
+✨ Smart Ideas
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="./anime-girl.gif" width="100" alt="Anime Sticker"/>
+
+### 🎮
+**𝐆𝐀𝐌𝐄 𝐂𝐑𝐄𝐀𝐓𝐎𝐑**
+
+🎯 Game Design  
+🕹️ Game Logic  
+🎨 Creative Design
+
+</td>
+
+</tr>
+</table>
+
+🌸 🩷 🎀 🦋 ✨ 💜 ✨ 🦋 🎀 🩷 🌸
+
+<h3>🎀 𝓣𝓱𝓲𝓷𝓴 • 𝓒𝓸𝓭𝓮 • 𝓟𝓵𝓪𝔂 • 𝓒𝓻𝓮𝓪𝓽𝓮 • 𝓦𝓲𝓷 🎀</h3>
+
+<img src="./anime-girl.gif" width="130" alt="Anime Coding Sticker"/>
+
+</div>
 <table>
 <tr>
 <td align="center">🎯<br><b>Problem Solver</b></td>
