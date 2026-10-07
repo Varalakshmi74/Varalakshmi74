@@ -265,25 +265,6 @@ Responsive UI
 
 <div align="center">
 
-# 🌸🩷 𝐂𝐎𝐍𝐓𝐑𝐈𝐁𝐔𝐓𝐈𝐎𝐍 𝐆𝐀𝐌𝐄 🩷🌸
-
-<img src="https://raw.githubusercontent.com/Varalakshmi74/Varalakshmi74/output/github-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
-<div align="center">
-
-# 🖤🌸 𝐂𝐎𝐍𝐓𝐑𝐈𝐁𝐔𝐓𝐈𝐎𝐍 𝐆𝐑𝐀𝐏𝐇 🌸🖤
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Varalakshmi74&bg_color=000000&color=ff69b4&line=ff1493&point=ffffff&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
 
 # 🎀🩷 𝐋𝐄𝐓'𝐒 𝐂𝐎𝐍𝐍𝐄𝐂𝐓 🩷🎀
 
