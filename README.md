@@ -268,23 +268,49 @@ Responsive UI
 
 # 🎀🩷 𝐋𝐄𝐓'𝐒 𝐂𝐎𝐍𝐍𝐄𝐂𝐓 🩷🎀
 
+<div align="center">
+
+# 🎀🩷 𝐋𝐄𝐓'𝐒 𝐂𝐎𝐍𝐍𝐄𝐂𝐓 🩷🎀
+
 <a href="https://github.com/Varalakshmi74">
 <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=ff69b4"/>
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/varalakshmi-udhayakumar-2389a8328">
 <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=ff69b4"/>
 </a>
 
-<a href="https://leetcode.com/">
+<a href="https://leetcode.com/u/varalakshmi-udhayakumar">
 <img src="https://img.shields.io/badge/LEETCODE-000000?style=for-the-badge&logo=leetcode&logoColor=ff69b4"/>
 </a>
 
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:varalakshmiudhayakumar84@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=ff69b4"/>
 </a>
 
 <br><br>
+
+🌸 🩷 🖤 💜 🎀 ✨ 🌷 🩷 🌸 🎀 💜 ✨ 🖤 🌸
+
+<h3>💌 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐖𝐢𝐭𝐡 𝐌𝐞 💌</h3>
+
+<p>
+📧 <b>Email:</b> varalakshmiudhayakumar84@gmail.com
+<br>
+💻 <b>GitHub:</b> Varalakshmi74
+<br>
+🧩 <b>LeetCode:</b> varalakshmi-udhayakumar
+<br>
+💼 <b>LinkedIn:</b> varalakshmi-udhayakumar
+</p>
+
+🌸 ───────── 🩷 ───────── 💜 ───────── 🌸
+
+<h2>𝓒𝓸𝓭𝓮 • 𝓒𝓻𝓮𝓪𝓽𝓮 • 𝓟𝓵𝓪𝔂 • 𝓘𝓷𝓷𝓸𝓿𝓪𝓽𝓮 💗</h2>
+
+<h3>🌸 𝐕𝐀𝐑𝐀𝐋𝐀𝐊𝐒𝐇𝐌𝐈 𝐔𝐃𝐇𝐘𝐀𝐊𝐔𝐌𝐀𝐑 🌸</h3>
+
+</div>
 
 🌸 🩷 🖤 💜 🎀 ✨ 🌸 🩷 🖤 💜 🎀 ✨ 🌸
 
