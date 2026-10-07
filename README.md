@@ -1,100 +1,45 @@
 <div align="center">
 
-<!-- 🌸✨ PREMIUM ANIME HEADER ✨🌸 -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:ff1493,100:800080&height=190&section=header&text=𝓥𝓐𝓡𝓐𝓛𝓐𝓚𝓢𝓗𝓜𝓘%20𝓤𝓓𝓗𝓨𝓐𝓚𝓤𝓜𝓐𝓡&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,45:16001f,75:ff1493,100:000000&height=210&section=header&text=VARALAKSHMI%20UDHYAKUMAR&fontSize=42&fontColor=ff69b4&animation=twinkling&fontAlignY=38"/>
+<h1>🌸 𝓥𝓪𝓻𝓪𝓵𝓪𝓴𝓼𝓱𝓶𝓲 𝓤𝓭𝓱𝔂𝓪𝓴𝓾𝓶𝓪𝓻 🌸</h1>
 
-<br>
+<img src="./anime-girl.gif" width="210"/>
 
-<!-- 🩷 ELEGANT NAME FONT -->
+<h3>💗 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐒𝐭𝐮𝐝𝐞𝐧𝐭 • 🤖 𝐀𝐈 & 𝐌𝐋 • 🎮 𝐆𝐚𝐦𝐞 𝐃𝐞𝐬𝐢𝐠𝐧 • 🌐 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫</h3>
 
-<h1>
-🌸 𝓥𝓪𝓻𝓪𝓵𝓪𝓴𝓼𝓱𝓶𝓲 𝓤𝓭𝓱𝔂𝓪𝓴𝓾𝓶𝓪𝓻 🌸
-</h1>
+<p><b>✨ 𝑪𝒐𝒅𝒊𝒏𝒈 • 𝑪𝒓𝒆𝒂𝒕𝒊𝒏𝒈 • 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈 • 𝑰𝒏𝒏𝒐𝒗𝒂𝒕𝒊𝒏𝒈 ✨</b></p>
 
-<!-- 💜 DIFFERENT FONT -->
-
-<h3>
-💻 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚂𝚝𝚞𝚍𝚎𝚗𝚝
-&nbsp; • &nbsp;
-🤖 𝑨𝑰 & 𝑴𝑳
-&nbsp; • &nbsp;
-🌸 𝐓𝐞𝐜𝐡 𝐄𝐧𝐭𝐡𝐮𝐬𝐢𝐚𝐬𝐭
-</h3>
-
-<!-- 🌸 ANIME STICKER -->
-
-<img src="./anime-girl.gif" width="270" alt="Cute Anime Developer"/>
-
-<br>
-
-<!-- 🌷 STICKER DECORATION -->
-
-<img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="55">
-<img src="https://media.giphy.com/media/1sSWWMNnaZLlm/giphy.gif" width="55">
-<img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="55">
-
-<br>
-
-<h2>
-💗 𝑯𝒊𝒊! 𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝒕𝒐 𝑴𝒚 𝑮𝒊𝒕𝒉𝒖𝒃 💗
-</h2>
-
-<p>
-✨ 𝓑𝓾𝓲𝓵𝓭𝓲𝓷𝓰 𝓲𝓭𝓮𝓪𝓼 𝔀𝓲𝓽𝓱 𝓬𝓸𝓭𝓮 ✨
-<br>
-🌸 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈 • 𝑪𝒓𝒆𝒂𝒕𝒊𝒏𝒈 • 𝑬𝒙𝒑𝒍𝒐𝒓𝒊𝒏𝒈 • 𝑮𝒓𝒐𝒘𝒊𝒏𝒈 🌸
-</p>
-
-<br>
-
-🌸 🦋 ✨ 💗 🌷 🎀 🌸 🦋 ✨ 💗 🌷
+🌸 🩷 🖤 💜 🌸 🩷 🖤 💜 🌸
 
 </div>
 
 ---
 
-<!-- 🌸 ABOUT ME -->
-
-<div align="center">
-
-# 🌸 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮 🌸
-
-</div>
-
 <table>
 <tr>
-
 <td width="65%">
 
-### 🩷 𝑾𝒉𝒐 𝑨𝒎 𝑰?
+# 🩷 𝐀𝐁𝐎𝐔𝐓 𝐌𝐄
 
-🎓 **𝘾𝙤𝙢𝙥𝙪𝙩𝙚𝙧 𝙎𝙘𝙞𝙚𝙣𝙘𝙚 𝙎𝙩𝙪𝙙𝙚𝙣𝙩**
-
-🤖 **𝑨𝑰 & 𝑴𝑳 𝑬𝒏𝒕𝒉𝒖𝒔𝒊𝒂𝒔𝒕**
-
-💻 **𝐏𝐚𝐬𝐬𝐢𝐨𝐧𝐚𝐭𝐞 𝐚𝐛𝐨𝐮𝐭 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭**
-
-🌱 **𝙰𝚕𝚠𝚊𝚢𝚜 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝙽𝚎𝚠 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜**
-
-✨ **𝓛𝓸𝓿𝓮 𝓬𝓻𝓮𝓪𝓽𝓲𝓷𝓰 𝓬𝓻𝓮𝓪𝓽𝓲𝓿𝓮 𝓹𝓻𝓸𝓳𝓮𝓬𝓽𝓼**
-
-🚀 **𝐓𝐮𝐫𝐧𝐢𝐧𝐠 𝐈𝐝𝐞𝐚𝐬 𝐈𝐧𝐭𝐨 𝐑𝐞𝐚𝐥 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬**
+🎓 **𝑪𝒐𝒎𝒑𝒖𝒕𝒆𝒓 𝑺𝒄𝒊𝒆𝒏𝒄𝒆 𝑺𝒕𝒖𝒅𝒆𝒏𝒕**  
+🤖 **𝑨𝑰 & 𝑴𝑳 𝑬𝒏𝒕𝒉𝒖𝒔𝒊𝒂𝒔𝒕**  
+💻 **𝑾𝒆𝒃 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕 𝑳𝒆𝒂𝒓𝒏𝒆𝒓**  
+🎮 **𝑮𝒂𝒎𝒆 𝑫𝒆𝒔𝒊𝒈𝒏 & 𝑪𝒓𝒆𝒂𝒕𝒊𝒗𝒊𝒕𝒚**  
+🌱 **𝑨𝒍𝒘𝒂𝒚𝒔 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈 𝑵𝒆𝒘 𝑻𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒊𝒆𝒔**  
+✨ **𝑳𝒐𝒗𝒆 𝑪𝒓𝒆𝒂𝒕𝒊𝒏𝒈 𝑪𝒓𝒆𝒂𝒕𝒊𝒗𝒆 & 𝑼𝒔𝒆𝒇𝒖𝒍 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔**
 
 </td>
 
 <td width="35%" align="center">
 
-<!-- 👧 ANIME STICKER -->
-
-<img src="./anime-girl.gif" width="220" alt="Anime Coding Girl"/>
+<img src="https://github-readme-utils.vercel.app/api/gif/anime" width="190"/>
 
 <br>
 
-🌸 🦋 ✨
+🌸 🎀 ✨ 🎀 🌸
 
 </td>
-
 </tr>
 </table>
 
@@ -102,55 +47,201 @@
 
 <div align="center">
 
-# 🖤 𝑪𝒐𝒓𝒆 𝑬𝒙𝒑𝒆𝒓𝒕𝒊𝒔𝒆 🌸
-
-</div>
+# 🖤💗 𝐂𝐎𝐑𝐄 𝐄𝐗𝐏𝐄𝐑𝐓𝐈𝐒𝐄 💗🖤
 
 <table>
 <tr>
+<td align="center" width="25%">
 
-<td align="center" width="33%">
+### 💻
+**𝐏𝐑𝐎𝐆𝐑𝐀𝐌𝐌𝐈𝐍𝐆**
 
-### 💻 𝓟𝓻𝓸𝓰𝓻𝓪𝓶𝓶𝓲𝓷𝓰
-
-🐍 **𝑷𝒚𝒕𝒉𝒐𝒏**
-
-☕ **𝐉𝐚𝐯𝐚**
-
-⚡ **𝙲 / 𝙲++**
-
-🌸 ✨ 🩷
+🐍 Python  
+☕ Java  
+⚡ C / C++  
+🟨 JavaScript
 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="25%">
 
-### 🤖 𝑨𝑰 & 𝑴𝑳
+### 🤖
+**𝐀𝐈 & 𝐌𝐋**
 
-🧠 **𝓜𝓪𝓬𝓱𝓲𝓷𝓮 𝓛𝓮𝓪𝓻𝓷𝓲𝓷𝓰**
-
-👁️ **𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐕𝐢𝐬𝐢𝐨𝐧**
-
-📊 **𝙳𝚊𝚝𝚊 𝙰𝚗𝚊𝚕𝚢𝚜𝚒𝚜**
-
-💜 ✨ 🌸
+🧠 Machine Learning  
+👁️ Computer Vision  
+📊 Data Analysis  
+✨ AI Projects
 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="25%">
 
-### 🌐 𝐖𝐞𝐛
+### 🌐
+**𝐖𝐄𝐁**
 
-🌸 **𝓗𝓣𝓜𝓛**
-
-🎨 **𝑪𝑺𝑺**
-
-⚡ **𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭**
-
-🦋 ✨ 🩷
+🌸 HTML  
+🎨 CSS  
+⚡ JavaScript  
+💻 Web Projects
 
 </td>
 
+<td align="center" width="25%">
+
+### 🎮
+**𝐆𝐀𝐌𝐄**
+
+🎯 Game Design  
+🕹️ Game Logic  
+✨ 2D Games  
+🎨 Creative Design
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🌸🩷 𝐓𝐄𝐂𝐇𝐍𝐈𝐂𝐀𝐋 𝐒𝐊𝐈𝐋𝐋𝐒 🩷🌸
+
+### 💗 𝐋𝐀𝐍𝐆𝐔𝐀𝐆𝐄𝐒
+
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=ff69b4"/>
+<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=ff69b4"/>
+<img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=ff69b4"/>
+<img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=ff69b4"/>
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=ff69b4"/>
+
+### 🌐 𝐅𝐑𝐎𝐍𝐓𝐄𝐍𝐃
+
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=ff69b4"/>
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=ff69b4"/>
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=ff69b4"/>
+<img src="https://img.shields.io/badge/Responsive%20Design-000000?style=for-the-badge&logo=css3&logoColor=ff69b4"/>
+
+### 🤖 𝐀𝐑𝐓𝐈𝐅𝐈𝐂𝐈𝐀𝐋 𝐈𝐍𝐓𝐄𝐋𝐋𝐈𝐆𝐄𝐍𝐂𝐄
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-000000?style=for-the-badge&logo=openai&logoColor=ff69b4"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-000000?style=for-the-badge&logo=tensorflow&logoColor=ff69b4"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-000000?style=for-the-badge&logo=opencv&logoColor=ff69b4"/>
+<img src="https://img.shields.io/badge/Data%20Analysis-000000?style=for-the-badge&logo=python&logoColor=ff69b4"/>
+
+### 🎮 𝐆𝐀𝐌𝐄 𝐃𝐄𝐒𝐈𝐆𝐍 & 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐌𝐄𝐍𝐓
+
+<img src="https://img.shields.io/badge/Game%20Design-000000?style=for-the-badge&logo=unity&logoColor=ff69b4"/>
+<img src="https://img.shields.io/badge/Game%20Development-000000?style=for-the-badge&logo=unity&logoColor=ff69b4"/>
+<img src="https://img.shields.io/badge/Game%20Logic-000000?style=for-the-badge&logo=unity&logoColor=ff69b4"/>
+<img src="https://img.shields.io/badge/2D%20Game%20Development-000000?style=for-the-badge&logo=unity&logoColor=ff69b4"/>
+
+### 🗄️ 𝐃𝐀𝐓𝐀𝐁𝐀𝐒𝐄
+
+<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=ff69b4"/>
+<img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=ff69b4"/>
+
+### 🛠️ 𝐓𝐎𝐎𝐋𝐒
+
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=ff69b4"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ff69b4"/>
+<img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=ff69b4"/>
+<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=ff69b4"/>
+<img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=ff69b4"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🎀🌸 𝑴𝒀 𝑺𝑲𝑰𝑳𝑳 𝑾𝑶𝑹𝑳𝑫 🌸🎀
+
+<table>
+<tr>
+<td align="center">
+
+💻  
+**𝐂𝐎𝐃𝐄**
+
+🐍 Python  
+☕ Java  
+⚡ C/C++  
+🌐 JavaScript
+
+</td>
+
+<td align="center">
+
+🤖  
+**𝐀𝐈 / 𝐌𝐋**
+
+🧠 ML  
+👁️ Computer Vision  
+📊 Data  
+✨ AI
+
+</td>
+
+<td align="center">
+
+🎮  
+**𝐆𝐀𝐌𝐄**
+
+🎯 Design  
+🕹️ Logic  
+🎨 Creativity  
+✨ 2D Games
+
+</td>
+
+<td align="center">
+
+🌐  
+**𝐖𝐄𝐁**
+
+HTML  
+CSS  
+JavaScript  
+Responsive UI
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+# 🩷🌸 𝐅𝐄𝐀𝐓𝐔𝐑𝐄𝐃 𝐏𝐑𝐎𝐉𝐄𝐂𝐓𝐒
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+## 🤖 𝐀𝐈 / 𝐌𝐋
+
+🌸 **Machine Learning Projects**  
+🌸 **Text & Speech Analysis**  
+🌸 **Computer Vision**  
+🌸 **AI Agent Projects**  
+🌸 **Self-Adaptive AI**
+
+</td>
+
+<td width="50%" align="center">
+
+## 🎮 𝐆𝐀𝐌𝐄 & 𝐖𝐄𝐁
+
+🎮 **Game Design Projects**  
+🎮 **2D Game Development**  
+🌐 **Interactive Websites**  
+💻 **JavaScript Projects**  
+✨ **Creative UI Designs**
+
+</td>
 </tr>
 </table>
 
@@ -158,54 +249,15 @@
 
 <div align="center">
 
-# 🌸 𝓣𝓮𝓬𝓱𝓷𝓲𝓬𝓪𝓵 𝓢𝓴𝓲𝓵𝓵𝓼 🌸
+# 🖤💗 𝐆𝐈𝐓𝐇𝐔𝐁 𝐒𝐓𝐀𝐓𝐒 💗🖤
 
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=Varalakshmi74&show_icons=true&hide_border=true&bg_color=000000&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&count_private=true" width="48%"/>
 
-### 🩷 𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆𝒔
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Varalakshmi74&hide_border=true&background=000000&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff" width="48%"/>
 
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=ff69b4"/>
-<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=c084fc"/>
-<img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=ff69b4"/>
-<img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=ff69b4"/>
+<br>
 
-### 💜 𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝
-
-<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=ff69b4"/>
-<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=c084fc"/>
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=ffd43b"/>
-
-### 🌸 𝓑𝓪𝓬𝓴𝓮𝓷𝓭
-
-<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=90ee90"/>
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=ff69b4"/>
-
-### 💗 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞
-
-<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=5dade2"/>
-<img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=90ee90"/>
-
-### 🎀 𝑻𝒐𝒐𝒍𝒔
-
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=ff8c00"/>
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ff69b4"/>
-<img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=4da6ff"/>
-
----
-
-<div align="center">
-
-# 🩷 𝑮𝒊𝒕𝒉𝒖𝒃 𝑺𝒕𝒂𝒕𝒔 🌸
-
-<img src="https://github-readme-stats.vercel.app/api?username=Varalakshmi74&show_icons=true&hide_border=true&bg_color=000000&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varalakshmi74&layout=compact&hide_border=true&bg_color=000000&title_color=c084fc&text_color=ffffff"/>
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Varalakshmi74&hide_border=true&background=000000&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4&sideLabels=ffffff&dates=ffffff"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varalakshmi74&layout=compact&hide_border=true&bg_color=000000&title_color=ff69b4&text_color=ffffff" width="45%"/>
 
 </div>
 
@@ -213,13 +265,19 @@
 
 <div align="center">
 
-# 🌸🖤 𝑪𝒐𝒏𝒕𝒓𝒊𝒃𝒖𝒕𝒊𝒐𝒏 𝑮𝒂𝒎𝒆
+# 🌸🩷 𝐂𝐎𝐍𝐓𝐑𝐈𝐁𝐔𝐓𝐈𝐎𝐍 𝐆𝐀𝐌𝐄 🩷🌸
 
 <img src="https://raw.githubusercontent.com/Varalakshmi74/Varalakshmi74/output/github-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
 
-<br>
+</div>
 
-🌸 🦋 ✨ 💗 🐰 💗 ✨ 🦋 🌸
+---
+
+<div align="center">
+
+# 🖤🌸 𝐂𝐎𝐍𝐓𝐑𝐈𝐁𝐔𝐓𝐈𝐎𝐍 𝐆𝐑𝐀𝐏𝐇 🌸🖤
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Varalakshmi74&bg_color=000000&color=ff69b4&line=ff1493&point=ffffff&area=true&hide_border=true" width="100%"/>
 
 </div>
 
@@ -227,94 +285,18 @@
 
 <div align="center">
 
-# 💜 𝓜𝔂 𝓒𝓸𝓷𝓽𝓻𝓲𝓫𝓾𝓽𝓲𝓸𝓷𝓼 🌸
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Varalakshmi74&bg_color=000000&color=ff69b4&line=c084fc&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub Contribution Graph"/>
-
-</div>
-
----
-
-<div align="center">
-
-# 🌸 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬 🩷
-
-</div>
-
-<table>
-<tr>
-
-<td align="center" width="50%">
-
-### 🤖 𝓐𝓘 / 𝓜𝓛
-
-🌸 **𝑺𝒆𝒍𝒇𝑨𝒅𝒂𝒑𝒕 𝑨𝑰**
-
-🌸 **𝓣𝓮𝔁𝓽 & 𝓢𝓹𝓮𝓮𝓬𝓱 𝓐𝓷𝓪𝓵𝔂𝓼𝓲𝓼**
-
-🌸 **𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐕𝐢𝐬𝐢𝐨𝐧**
-
-🌸 **𝑺𝒄𝒂𝒎𝑺𝒉𝒊𝒆𝒍𝒅 𝑨𝑰**
-
-</td>
-
-<td align="center" width="50%">
-
-### 💻 𝐖𝐞𝐛 & 𝐒𝐲𝐬𝐭𝐞𝐦
-
-🌸 **𝓘𝓷𝓭𝓾𝓼𝓽𝓻𝓲𝓪𝓵 𝓕𝓲𝓻𝓮 𝓢𝓪𝓯𝓮𝓽𝔂**
-
-🌸 **𝑯𝑻𝑴𝑳 • 𝑪𝑺𝑺 • 𝑱𝑺**
-
-🌸 **𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠**
-
-🌸 **𝙂𝙖𝙢𝙞𝙣𝙜 𝙉𝙚𝙩𝙬𝙤𝙧𝙠 𝙇𝙖𝙩𝙚𝙣𝙘𝙮**
-
-</td>
-
-</tr>
-</table>
-
----
-
-<div align="center">
-
-# 🌱 𝑪𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈 💜
-
-🌸 𝑨𝒅𝒗𝒂𝒏𝒄𝒆𝒅 𝑨𝑰/𝑴𝑳
-&nbsp; • &nbsp;
-🤖 𝓕𝓾𝓵𝓵 𝓢𝓽𝓪𝓬𝓴
-&nbsp; • &nbsp;
-🛡️ 𝐂𝐲𝐛𝐞𝐫 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲
-&nbsp; • &nbsp;
-☁️ 𝙲𝚕𝚘𝚞𝚍
-
-<br><br>
-
-<img src="./anime-girl.gif" width="180" alt="Anime Learning Girl"/>
-
-<br>
-
-✨ 𝓛𝓮𝓪𝓻𝓷 • 𝓑𝓾𝓲𝓵𝓭 • 𝓘𝓶𝓹𝓻𝓸𝓿𝓮 • 𝓡𝓮𝓹𝓮𝓪𝓽 ✨
-
-</div>
-
----
-
-<div align="center">
-
-# 🖤🌸 𝓛𝓮𝓽'𝓼 𝓒𝓸𝓷𝓷𝓮𝓬𝓽
+# 🎀🩷 𝐋𝐄𝐓'𝐒 𝐂𝐎𝐍𝐍𝐄𝐂𝐓 🩷🎀
 
 <a href="https://github.com/Varalakshmi74">
 <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=ff69b4"/>
 </a>
 
-<a href="#">
+<a href="https://www.linkedin.com/">
 <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=ff69b4"/>
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/LEETCODE-000000?style=for-the-badge&logo=leetcode&logoColor=c084fc"/>
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LEETCODE-000000?style=for-the-badge&logo=leetcode&logoColor=ff69b4"/>
 </a>
 
 <a href="mailto:yourmail@gmail.com">
@@ -323,30 +305,12 @@
 
 <br><br>
 
-🌸 🦋 💗 ✨ 🌷 🎀 🌸 🦋 💗 ✨
+🌸 🩷 🖤 💜 🎀 ✨ 🌸 🩷 🖤 💜 🎀 ✨ 🌸
 
-</div>
+<h2>𝓒𝓸𝓭𝓮 • 𝓒𝓻𝓮𝓪𝓽𝓮 • 𝓟𝓵𝓪𝔂 • 𝓘𝓷𝓷𝓸𝓿𝓪𝓽𝓮 💗</h2>
 
----
+<h3>🌸 𝐕𝐀𝐑𝐀𝐋𝐀𝐊𝐒𝐇𝐌𝐈 𝐔𝐃𝐇𝐘𝐀𝐊𝐔𝐌𝐀𝐑 🌸</h3>
 
-<div align="center">
-
-<img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="100" alt="Cute Flower Sticker"/>
-
-<h2>🩷 𝓒𝓸𝓭𝓮 • 𝓒𝓻𝓮𝓪𝓽𝓮 • 𝓘𝓷𝓷𝓸𝓿𝓪𝓽𝓮 🩷</h2>
-
-<p>
-🌸 🩷 🖤 🌸 🩷 🖤 🌸 🩷 🖤 🌸
-</p>
-
-<h2>🌸 𝑽𝑨𝑹𝑨𝑳𝑨𝑲𝑺𝑯𝑴𝑰 𝑼𝑫𝑯𝒀𝑨𝑲𝑼𝑴𝑨𝑹 🌸</h2>
-
-<p>
-✨ 𝓚𝓮𝓮𝓹 𝓒𝓸𝓭𝓲𝓷𝓰 • 𝓚𝓮𝓮𝓹 𝓒𝓻𝓮𝓪𝓽𝓲𝓷𝓰 • 𝓚𝓮𝓮𝓹 𝓖𝓻𝓸𝔀𝓲𝓷𝓰 ✨
-</p>
-
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,50:16001f,100:000000&height=130&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:800080,50:ff1493,100:000000&height=120&section=footer"/>
 
 </div>
