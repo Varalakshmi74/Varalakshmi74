@@ -479,8 +479,67 @@ Creative Prototypes
 
 ## 🐍✨ 𝐌𝐘 𝐆𝐈𝐓𝐇𝐔𝐁 𝐒𝐍𝐀𝐊𝐄 𝐆𝐀𝐌𝐄 ✨🐍
 
-<img src="https://raw.githubusercontent.com/Varalakshmi74/Varalakshmi74/output/github-snake-dark.svg" width="95%" alt="GitHub Contribution Snake"/>
+<!-- 🐍 CONTRIBUTION SNAKE GAME -->
 
+<div align="center">
+
+<h2>🐍🎮 𝐆𝐈𝐓𝐇𝐔𝐁 𝐒𝐍𝐀𝐊𝐄 𝐆𝐀𝐌𝐄 🎮🐍</h2>
+
+<p>
+🌸 𝓒𝓸𝓵𝓵𝓮𝓬𝓽 𝓜𝔂 𝓒𝓸𝓷𝓽𝓻𝓲𝓫𝓾𝓽𝓲𝓸𝓷𝓼 🌸
+</p>
+
+<table>
+<tr>
+<td align="center">
+
+🩷 <b>PLAYER</b><br>
+𝓥𝓪𝓻𝓪𝓵𝓪𝓴𝓼𝓱𝓶𝓲
+
+</td>
+
+<td align="center">
+
+🐍 <b>GAME</b><br>
+Contribution Snake
+
+</td>
+
+<td align="center">
+
+⚡ <b>MODE</b><br>
+Coding
+
+</td>
+
+<td align="center">
+
+🏆 <b>STATUS</b><br>
+Active
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img 
+src="https://raw.githubusercontent.com/Varalakshmi74/Varalakshmi74/output/github-snake-dark.svg"
+width="95%"
+alt="GitHub Contribution Snake"
+/>
+
+<br><br>
+
+<img src="./anime-girl.gif" width="120" alt="Anime Girl"/>
+
+<h3>🩷 𝑪𝒐𝒅𝒆 → 𝑪𝒐𝒏𝒕𝒓𝒊𝒃𝒖𝒕𝒆 → 𝑮𝒓𝒐𝒘 → 𝑳𝒆𝒗𝒆𝒍 𝑼𝒑 🩷</h3>
+
+<p>
+🌸 🦋 ✨ 🐍 🎮 🩷 🎀 💜 🎀 🩷 🎮 🐍 ✨ 🦋 🌸
+</p>
+
+</div>
 <br><br>
 
 ### 🎮 𝓒𝓸𝓵𝓵𝓮𝓬𝓽 𝓒𝓸𝓷𝓽𝓻𝓲𝓫𝓾𝓽𝓲𝓸𝓷𝓼 • 𝓖𝓻𝓸𝔀 𝓨𝓸𝓾𝓻 𝓢𝓴𝓲𝓵𝓵𝓼 • 𝓛𝓮𝓿𝓮𝓵 𝓤𝓹 🚀
