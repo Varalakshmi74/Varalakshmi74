@@ -1,16 +1,33 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,45:ff1493,75:800080,100:000000&height=220&section=header&text=𝓥𝓐𝓡𝓐𝓛𝓐𝓚𝓢𝓗𝓜𝓘%20𝓤𝓓𝓗𝓨𝓐𝓚𝓤𝓜𝓐𝓡&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--                         HERO SECTION                         -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,35:ff1493,65:8a2be2,100:050505&height=230&section=header&text=VARALAKSHMI%20UDHYAKUMAR&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=twinkling"/>
+
+<br>
 
 <img src="./anime-girl.gif" width="190"/>
 
-# 🌸🩷 𝓥𝓪𝓻𝓪𝓵𝓪𝓴𝓼𝓱𝓶𝓲 𝓤𝓭𝓱𝔂𝓪𝓴𝓾𝓶𝓪𝓻 🩷🌸
+<br>
 
-### 💻 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 • 🤖 𝐀𝐈 & 𝐌𝐋 • 🎮 𝐆𝐚𝐦𝐞 𝐃𝐞𝐬𝐢𝐠𝐧 • 🌐 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=2800&pause=900&color=FF69B4&center=true&vCenter=true&width=700&lines=Computer+Science+Student;AI+%26+ML+Explorer;Web+Developer;Game+Design+Enthusiast;Creative+Problem+Solver;Building+Ideas+Into+Reality+%E2%9C%A8"/>
 
-✨ 𝑪𝒐𝒅𝒊𝒏𝒈 • 𝑪𝒓𝒆𝒂𝒕𝒊𝒏𝒈 • 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈 • 𝑰𝒏𝒏𝒐𝒗𝒂𝒕𝒊𝒏𝒈 ✨
+<br><br>
 
-🌸 🩷 🎀 🦋 💜 ✨ 🌷 ✨ 💜 🦋 🎀 🩷 🌸
+<img src="https://img.shields.io/badge/🩷%20CODE-000000?style=for-the-badge&labelColor=000000&color=ff1493"/>
+<img src="https://img.shields.io/badge/🤖%20AI%20%26%20ML-000000?style=for-the-badge&labelColor=000000&color=8a2be2"/>
+<img src="https://img.shields.io/badge/🌐%20WEB-000000?style=for-the-badge&labelColor=000000&color=ff69b4"/>
+<img src="https://img.shields.io/badge/🎮%20GAME-000000?style=for-the-badge&labelColor=000000&color=8a2be2"/>
+
+<br><br>
+
+### 🌸 𝓒𝓸𝓭𝓲𝓷𝓰 • 𝓒𝓻𝓮𝓪𝓽𝓲𝓷𝓰 • 𝓛𝓮𝓪𝓻𝓷𝓲𝓷𝓰 • 𝓘𝓷𝓷𝓸𝓿𝓪𝓽𝓲𝓷𝓰 🌸
+
+<br>
+
+🌸 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 🌸
 
 </div>
 
@@ -18,39 +35,51 @@
 
 <div align="center">
 
-## 🖤💗 𝐀𝐁𝐎𝐔𝐓 𝐌𝐄 💗🖤
+# 🩷 𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 𝐌𝐘 𝐂𝐎𝐃𝐈𝐍𝐆 𝐖𝐎𝐑𝐋𝐃 🩷
 
 <table>
 <tr>
-<td width="60%">
 
-🎓 **𝑪𝒐𝒎𝒑𝒖𝒕𝒆𝒓 𝑺𝒄𝒊𝒆𝒏𝒄𝒆 𝑺𝒕𝒖𝒅𝒆𝒏𝒕**
+<td width="55%" valign="top">
 
-🤖 **𝑨𝑰 & 𝑴𝑳 𝑬𝒏𝒕𝒉𝒖𝒔𝒊𝒂𝒔𝒕**
+## 🌸 𝓗𝓮𝔂! 𝓘'𝓶 𝓥𝓪𝓻𝓪𝓵𝓪𝓴𝓼𝓱𝓶𝓲
 
-💻 **𝑾𝒆𝒃 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕 𝑳𝒆𝒂𝒓𝒏𝒆𝒓**
+🎓 **Computer Science Student**
 
-🎮 **𝑮𝒂𝒎𝒆 𝑫𝒆𝒔𝒊𝒈𝒏 & 𝑪𝒓𝒆𝒂𝒕𝒊𝒗𝒊𝒕𝒚**
+🤖 Exploring **Artificial Intelligence & Machine Learning**
 
-🌱 **𝑨𝒍𝒘𝒂𝒚𝒔 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈 𝑵𝒆𝒘 𝑻𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒊𝒆𝒔**
+💻 Learning **Web Development**
 
-✨ **𝑩𝒖𝒊𝒍𝒅𝒊𝒏𝒈 𝑪𝒓𝒆𝒂𝒕𝒊𝒗𝒆 & 𝑼𝒔𝒆𝒇𝒖𝒍 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔**
+🎮 Interested in **Game Design & Development**
+
+🧠 Improving **Problem Solving & Coding**
+
+🚀 Building **Creative Projects & Hackathon Ideas**
+
+🌱 Always curious about **new technologies**
+
+✨ My goal is simple:
+
+> **Think → Build → Learn → Improve → Create**
 
 </td>
 
-<td width="40%" align="center">
+<td width="45%" align="center">
 
-<img src="./anime-girl.gif" width="170"/>
-
-<br>
-
-🌸 🎀 🩷 ✨ 🦋 ✨ 🩷 🎀 🌸
+<img src="./anime-girl.gif" width="210"/>
 
 <br><br>
 
-**𝓒𝓸𝓭𝓮 𝓦𝓲𝓽𝓱 𝓒𝓻𝓮𝓪𝓽𝓲𝓿𝓲𝓽𝔂 💗**
+<img src="https://img.shields.io/badge/✨%20CREATIVE-000000?style=for-the-badge&color=ff69b4"/>
+<br>
+<img src="https://img.shields.io/badge/🧠%20CURIOUS-000000?style=for-the-badge&color=8a2be2"/>
+<br>
+<img src="https://img.shields.io/badge/💻%20CODER-000000?style=for-the-badge&color=ff1493"/>
+<br>
+<img src="https://img.shields.io/badge/🚀%20BUILDER-000000?style=for-the-badge&color=8a2be2"/>
 
 </td>
+
 </tr>
 </table>
 
@@ -60,16 +89,18 @@
 
 <div align="center">
 
-# 🌸🩷 𝐂𝐎𝐑𝐄 𝐄𝐗𝐏𝐄𝐑𝐓𝐈𝐒𝐄 🩷🌸
+# 🎀🖤 𝐌𝐘 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑 𝐖𝐎𝐑𝐋𝐃 🖤🎀
 
 <table>
 <tr>
 
 <td align="center" width="25%">
 
-## 💻
+<img src="https://img.icons8.com/fluency/96/source-code.png"/>
 
-### 𝐏𝐑𝐎𝐆𝐑𝐀𝐌𝐌𝐈𝐍𝐆
+### 💻
+
+**𝐂𝐎𝐃𝐈𝐍𝐆**
 
 🐍 Python  
 ☕ Java  
@@ -80,9 +111,11 @@
 
 <td align="center" width="25%">
 
-## 🤖
+<img src="https://img.icons8.com/fluency/96/artificial-intelligence.png"/>
 
-### 𝐀𝐈 & 𝐌𝐋
+### 🤖
+
+**𝐀𝐈 / 𝐌𝐋**
 
 🧠 Machine Learning  
 👁️ Computer Vision  
@@ -93,141 +126,29 @@
 
 <td align="center" width="25%">
 
-## 🌐
+<img src="https://img.icons8.com/fluency/96/web.png"/>
 
-### 𝐖𝐄𝐁
+### 🌐
+
+**𝐖𝐄𝐁**
 
 🌸 HTML  
 🎨 CSS  
 ⚡ JavaScript  
-💻 Responsive UI
+💎 UI Design
 
 </td>
 
 <td align="center" width="25%">
 
-## 🎮
+<img src="https://img.icons8.com/fluency/96/controller.png"/>
 
-### 𝐆𝐀𝐌𝐄
+### 🎮
+
+**𝐆𝐀𝐌𝐄**
 
 🎯 Game Design  
 🕹️ Game Logic  
-✨ 2D Games  
-🎨 Creative Design
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-# 🎀🩷 𝑻𝑬𝑪𝑯𝑵𝑰𝑪𝑨𝑳 𝑺𝑲𝑰𝑳𝑳𝑺 🩷🎀
-
-### 💗 𝐋𝐀𝐍𝐆𝐔𝐀𝐆𝐄𝐒
-
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=ff69b4"/>
-<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=ff69b4"/>
-<img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=ff69b4"/>
-<img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=ff69b4"/>
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=ff69b4"/>
-
-### 🌐 𝐅𝐑𝐎𝐍𝐓𝐄𝐍𝐃
-
-<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=ff69b4"/>
-<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=ff69b4"/>
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=ff69b4"/>
-<img src="https://img.shields.io/badge/Responsive%20Design-000000?style=for-the-badge&logo=css3&logoColor=ff69b4"/>
-
-### 🤖 𝐀𝐈 / 𝐌𝐋
-
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-000000?style=for-the-badge&logo=openai&logoColor=ff69b4"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-000000?style=for-the-badge&logo=tensorflow&logoColor=ff69b4"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-000000?style=for-the-badge&logo=opencv&logoColor=ff69b4"/>
-<img src="https://img.shields.io/badge/Data%20Analysis-000000?style=for-the-badge&logo=python&logoColor=ff69b4"/>
-
-### 🎮 𝐆𝐀𝐌𝐄 𝐃𝐄𝐒𝐈𝐆𝐍
-
-<img src="https://img.shields.io/badge/Game%20Design-000000?style=for-the-badge&logo=unity&logoColor=ff69b4"/>
-<img src="https://img.shields.io/badge/Game%20Development-000000?style=for-the-badge&logo=unity&logoColor=ff69b4"/>
-<img src="https://img.shields.io/badge/Game%20Logic-000000?style=for-the-badge&logo=unity&logoColor=ff69b4"/>
-<img src="https://img.shields.io/badge/2D%20Games-000000?style=for-the-badge&logo=unity&logoColor=ff69b4"/>
-
-### 🗄️ 𝐃𝐀𝐓𝐀𝐁𝐀𝐒𝐄
-
-<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=ff69b4"/>
-<img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=ff69b4"/>
-
-### 🛠️ 𝐓𝐎𝐎𝐋𝐒
-
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=ff69b4"/>
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ff69b4"/>
-<img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=ff69b4"/>
-<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=ff69b4"/>
-<img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=ff69b4"/>
-
-</div>
-
----
-
-<div align="center">
-
-# 🌸🎀 𝐌𝐘 𝐒𝐊𝐈𝐋𝐋 𝐖𝐎𝐑𝐋𝐃 🎀🌸
-
-<table>
-<tr>
-
-<td align="center" width="25%">
-
-💻
-
-### 𝐂𝐎𝐃𝐄
-
-🐍 Python  
-☕ Java  
-⚡ C/C++  
-🌐 JavaScript
-
-</td>
-
-<td align="center" width="25%">
-
-🤖
-
-### 𝐀𝐈 / 𝐌𝐋
-
-🧠 ML  
-👁️ Vision  
-📊 Data  
-✨ AI
-
-</td>
-
-<td align="center" width="25%">
-
-🌐
-
-### 𝐖𝐄𝐁
-
-HTML  
-CSS  
-JavaScript  
-Responsive UI
-
-</td>
-
-<td align="center" width="25%">
-
-🎮
-
-### 𝐆𝐀𝐌𝐄
-
-🎯 Design  
-🕹️ Logic  
 🎨 Creativity  
 ✨ 2D Games
 
@@ -236,69 +157,37 @@ Responsive UI
 </tr>
 </table>
 
-🌸 ━━━━━━━ 🩷 ━━━━━━━ 💜 ━━━━━━━ 🩷 ━━━━━━━ 🌸
-
-</div>
-
----
-
-# 🩷🌸 𝐅𝐄𝐀𝐓𝐔𝐑𝐄𝐃 𝐏𝐑𝐎𝐉𝐄𝐂𝐓𝐒 🌸🩷
-
-<div align="center">
-
-<table>
-<tr>
-
-<td width="50%" align="center">
-
-## 🤖 𝐀𝐈 / 𝐌𝐋
-
-🌸 **Machine Learning Projects**
-
-🌸 **Text & Speech Analysis**
-
-🌸 **Computer Vision**
-
-🌸 **AI Agent Projects**
-
-🌸 **Self-Adaptive AI**
-
-</td>
-
-<td width="50%" align="center">
-
-## 🎮 𝐆𝐀𝐌𝐄 & 𝐖𝐄𝐁
-
-🎮 **Game Design Projects**
-
-🎮 **2D Game Development**
-
-🌐 **Interactive Websites**
-
-💻 **JavaScript Projects**
-
-✨ **Creative UI Designs**
-
-</td>
-
-</tr>
-</table>
-
 </div>
 
 ---
 
 <div align="center">
 
-# 🖤💗 𝐆𝐈𝐓𝐇𝐔𝐁 𝐒𝐓𝐀𝐓𝐒 💗🖤
+# 🩷🌸 𝐓𝐄𝐂𝐇 𝐒𝐓𝐀𝐂𝐊 🌸🩷
 
-<img src="https://github-readme-stats.vercel.app/api?username=Varalakshmi74&show_icons=true&hide_border=true&bg_color=000000&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&count_private=true" width="48%"/>
+### 💻 𝐏𝐑𝐎𝐆𝐑𝐀𝐌𝐌𝐈𝐍𝐆
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Varalakshmi74&hide_border=true&background=000000&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff" width="48%"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js&theme=dark"/>
+
+### 🌐 𝐅𝐑𝐎𝐍𝐓𝐄𝐍𝐃
+
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark"/>
+
+### 🤖 𝐀𝐈 / 𝐌𝐋
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv&theme=dark"/>
+
+### 🗄️ 𝐃𝐀𝐓𝐀𝐁𝐀𝐒𝐄
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark"/>
+
+### 🛠️ 𝐓𝐎𝐎𝐋𝐒
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,unity&theme=dark"/>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varalakshmi74&layout=compact&hide_border=true&bg_color=000000&title_color=ff69b4&text_color=ffffff" width="42%"/>
+🌸 🩷 🖤 💜 🎀 🦋 ✨ 🌷 ✨ 🦋 🎀 💜 🖤 🩷 🌸
 
 </div>
 
@@ -306,86 +195,41 @@ Responsive UI
 
 <div align="center">
 
-# 🐍🌸 𝐌𝐘 𝐂𝐎𝐍𝐓𝐑𝐈𝐁𝐔𝐓𝐈𝐎𝐍 𝐆𝐀𝐌𝐄 🌸🐍
-
-<img src="https://raw.githubusercontent.com/Varalakshmi74/Varalakshmi74/output/github-snake-dark.svg" width="95%"/>
-
-<br>
-
-🌸 🩷 🎀 🦋 ✨ 💜 ✨ 🦋 🎀 🩷 🌸
-
-</div>
-
----
-
-<div align="center">
-
-# 📊🩷 𝐂𝐎𝐃𝐈𝐍𝐆 𝐀𝐂𝐓𝐈𝐕𝐈𝐓𝐘 🩷📊
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Varalakshmi74&bg_color=000000&color=ff69b4&line=ff1493&point=ffffff&area=true&hide_border=true" width="95%"/>
-
-</div>
-
----
-
-<div align="center">
-
-# 🌸🎮🩷 𝐂𝐎𝐃𝐈𝐍𝐆 𝐆𝐀𝐌𝐄 𝐙𝐎𝐍𝐄 🩷🎮🌸
-
-<img src="./anime-girl.gif" width="155"/>
-
-### 🎀 𝓦𝓱𝓮𝓻𝓮 𝓒𝓸𝓭𝓲𝓷𝓰 𝓜𝓮𝓮𝓽𝓼 𝓒𝓻𝓮𝓪𝓽𝓲𝓿𝓲𝓽𝔂 🎀
-
-🌸 🩷 🎮 🦋 ✨ 💜 🎀 ✨ 🦋 🎮 🩷 🌸
+# 🤖🩷 𝐀𝐈 & 𝐌𝐋 𝐙𝐎𝐍𝐄 🩷🤖
 
 <table>
 <tr>
 
-<td align="center" width="25%">
+<td align="center" width="33%">
 
-<img src="./anime-girl.gif" width="85"/>
+### 🧠 𝐋𝐄𝐀𝐑𝐍
 
-### 🎯 𝐏𝐑𝐎𝐁𝐋𝐄𝐌 𝐒𝐎𝐋𝐕𝐄𝐑
-
-🧠 Think  
-💡 Solve  
-⚡ Code
-
-</td>
-
-<td align="center" width="25%">
-
-<img src="./anime-girl.gif" width="85"/>
-
-### 💻 𝐂𝐎𝐃𝐄 𝐁𝐔𝐈𝐋𝐃𝐄𝐑
-
-🐍 Python  
-☕ Java  
-⚡ C / C++
+Machine Learning  
+Artificial Intelligence  
+Data Analysis  
+Computer Vision
 
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="33%">
 
-<img src="./anime-girl.gif" width="85"/>
+### 🔬 𝐄𝐗𝐏𝐋𝐎𝐑𝐄
 
-### 🤖 𝐀𝐈 𝐄𝐗𝐏𝐋𝐎𝐑𝐄𝐑
-
-🧠 AI & ML  
-👁️ Computer Vision  
-✨ Smart Ideas
+AI Agents  
+Text & Speech  
+Smart Systems  
+Self-Adaptive AI
 
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="33%">
 
-<img src="./anime-girl.gif" width="85"/>
+### 🚀 𝐁𝐔𝐈𝐋𝐃
 
-### 🎮 𝐆𝐀𝐌𝐄 𝐂𝐑𝐄𝐀𝐓𝐎𝐑
-
-🎯 Game Design  
-🕹️ Game Logic  
-🎨 Creativity
+AI Projects  
+Hackathon Ideas  
+Real-World Solutions  
+Creative Prototypes
 
 </td>
 
@@ -394,13 +238,11 @@ Responsive UI
 
 <br>
 
-### 🎀 𝓣𝓱𝓲𝓷𝓴 • 𝓒𝓸𝓭𝓮 • 𝓟𝓵𝓪𝔂 • 𝓒𝓻𝓮𝓪𝓽𝓮 • 𝓦𝓲𝓷 🎀
-
-<img src="./anime-girl.gif" width="115"/>
+<img src="./anime-girl.gif" width="130"/>
 
 <br>
 
-🩷 **𝐓𝐮𝐫𝐧𝐢𝐧𝐠 𝐈𝐝𝐞𝐚𝐬 𝐈𝐧𝐭𝐨 𝐂𝐨𝐝𝐞** ✨
+### ✨ 𝓣𝓾𝓻𝓷𝓲𝓷𝓰 𝓒𝓻𝓪𝔃𝔂 𝓘𝓭𝓮𝓪𝓼 𝓘𝓷𝓽𝓸 𝓢𝓶𝓪𝓻𝓽 𝓟𝓻𝓸𝓳𝓮𝓬𝓽𝓼 ✨
 
 </div>
 
@@ -408,7 +250,166 @@ Responsive UI
 
 <div align="center">
 
-# 🌸🩷 𝐌𝐘 𝐂𝐎𝐃𝐈𝐍𝐆 𝐉𝐎𝐔𝐑𝐍𝐄𝐘 🩷🌸
+# 🎮🌸 𝐆𝐀𝐌𝐄 & 𝐂𝐑𝐄𝐀𝐓𝐈𝐕𝐈𝐓𝐘 𝐙𝐎𝐍𝐄 🌸🎮
+
+<table>
+<tr>
+
+<td align="center">
+
+🎯 **GAME DESIGN**
+
+<br>
+
+🕹️ Game Logic  
+🎨 Creative Design  
+✨ 2D Games  
+🚀 Interactive Ideas
+
+</td>
+
+<td align="center">
+
+🎀 **CREATIVE MIND**
+
+<br>
+
+💡 New Ideas  
+🎨 UI Creativity  
+🧠 Problem Solving  
+🌸 Experimenting
+
+</td>
+
+<td align="center">
+
+🎮 **BUILD & PLAY**
+
+<br>
+
+⚡ Code  
+🎯 Design  
+🕹️ Play  
+✨ Improve
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# 🏆🩷 𝐅𝐄𝐀𝐓𝐔𝐑𝐄𝐃 𝐏𝐑𝐎𝐉𝐄𝐂𝐓𝐒 🩷🏆
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td width="50%" align="center">
+
+## 🤖 𝐀𝐈 / 𝐌𝐋 𝐏𝐑𝐎𝐉𝐄𝐂𝐓𝐒
+
+🌸 Machine Learning Projects
+
+<br>
+
+🎙️ Text & Speech Analysis
+
+<br>
+
+👁️ Computer Vision
+
+<br>
+
+🤖 AI Agent Projects
+
+<br>
+
+🧠 Self-Adaptive AI
+
+<br>
+
+🔥 Industrial Safety AI
+
+</td>
+
+<td width="50%" align="center">
+
+## 🌐 𝐖𝐄𝐁 / 𝐆𝐀𝐌𝐄
+
+🌸 Interactive Websites
+
+<br>
+
+💻 JavaScript Projects
+
+<br>
+
+🎮 Game Development
+
+<br>
+
+🕹️ 2D Game Projects
+
+<br>
+
+🎨 Creative UI Projects
+
+<br>
+
+🚀 Hackathon Projects
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+<img src="https://img.shields.io/badge/🚀%20ALWAYS%20BUILDING-000000?style=for-the-badge&labelColor=000000&color=ff1493"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 📊🖤 𝐆𝐈𝐓𝐇𝐔𝐁 𝐒𝐓𝐀𝐓𝐒 🖤📊
+
+<img src="https://github-readme-stats.vercel.app/api?username=Varalakshmi74&show_icons=true&hide_border=true&bg_color=050505&title_color=ff69b4&icon_color=ff1493&text_color=ffffff&count_private=true&rank_icon=github" width="48%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Varalakshmi74&hide_border=true&background=050505&ring=ff69b4&fire=ff1493&currStreakLabel=ff69b4&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff" width="48%"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varalakshmi74&layout=compact&hide_border=true&bg_color=050505&title_color=ff69b4&text_color=ffffff" width="42%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🐍🩷 𝐂𝐎𝐍𝐓𝐑𝐈𝐁𝐔𝐓𝐈𝐎𝐍 𝐆𝐀𝐌𝐄 🩷🐍
+
+<img src="https://raw.githubusercontent.com/Varalakshmi74/Varalakshmi74/output/github-snake-dark.svg" width="95%"/>
+
+<br><br>
+
+### 🎮 𝓚𝓮𝓮𝓹 𝓒𝓸𝓭𝓲𝓷𝓰 • 𝓚𝓮𝓮𝓹 𝓒𝓸𝓷𝓽𝓻𝓲𝓫𝓾𝓽𝓲𝓷𝓰 • 𝓚𝓮𝓮𝓹 𝓖𝓻𝓸𝔀𝓲𝓷𝓰 🎮
+
+</div>
+
+---
+
+<div align="center">
+
+# 🌌🩷 𝐌𝐘 𝐂𝐎𝐃𝐈𝐍𝐆 𝐉𝐎𝐔𝐑𝐍𝐄𝐘 🩷🌌
 
 <table>
 <tr>
@@ -419,23 +420,23 @@ Responsive UI
 
 ### 𝐋𝐄𝐀𝐑𝐍𝐈𝐍𝐆
 
-🤖 AI & ML  
-🌐 Web Development  
-🎮 Game Design  
-🧠 Problem Solving
+AI & ML  
+Web Development  
+Game Design  
+Problem Solving
 
 </td>
 
 <td align="center" width="25%">
 
-💻
+🔥
 
-### 𝐁𝐔𝐈𝐋𝐃𝐈𝐍𝐆
+### 𝐖𝐎𝐑𝐊𝐈𝐍𝐆 𝐎𝐍
 
-✨ Creative Websites  
-🤖 AI Projects  
-🎮 Game Projects  
-🚀 Hackathon Ideas
+AI Projects  
+Creative Websites  
+Games  
+Hackathons
 
 </td>
 
@@ -445,37 +446,34 @@ Responsive UI
 
 ### 𝐆𝐎𝐀𝐋𝐒
 
-🏆 Amazing Projects  
-💡 New Technologies  
-💻 Better Coding  
-🌸 Unique Ideas
+Build Amazing Projects  
+Learn New Tech  
+Improve Coding  
+Innovate
 
 </td>
 
 <td align="center" width="25%">
 
-🎀
+✨
 
 ### 𝐕𝐈𝐁𝐄
 
-🌸 Code  
-🩷 Create  
-🎮 Play  
-✨ Explore  
-🚀 Innovate
+Code  
+Create  
+Explore  
+Innovate
 
 </td>
 
 </tr>
 </table>
 
-<h2>🎀 𝓑𝓾𝓲𝓵𝓭𝓲𝓷𝓰 𝓘𝓭𝓮𝓪𝓼 𝓘𝓷𝓽𝓸 𝓡𝓮𝓪𝓵𝓲𝓽𝔂 🎀</h2>
+<br>
 
-💻 𝑪𝒐𝒅𝒆 &nbsp; ✦ &nbsp;
-🤖 𝑻𝒉𝒊𝒏𝒌 &nbsp; ✦ &nbsp;
-🎨 𝑫𝒆𝒔𝒊𝒈𝒏 &nbsp; ✦ &nbsp;
-🎮 𝑷𝒍𝒂𝒚 &nbsp; ✦ &nbsp;
-🚀 𝑩𝒖𝒊𝒍𝒅
+<img src="./anime-girl.gif" width="135"/>
+
+<h2>🎀 𝓑𝓾𝓲𝓵𝓭𝓲𝓷𝓰 𝓣𝓸𝓶𝓸𝓻𝓻𝓸𝔀, 𝓞𝓷𝓮 𝓛𝓲𝓷𝓮 𝓞𝓯 𝓒𝓸𝓭𝓮 𝓐𝓽 𝓐 𝓣𝓲𝓶𝓮 🎀</h2>
 
 </div>
 
@@ -483,58 +481,60 @@ Responsive UI
 
 <div align="center">
 
-# 🎀🌸🩷 𝐋𝐄𝐓'𝐒 𝐂𝐎𝐍𝐍𝐄𝐂𝐓 🩷🌸🎀
+# 🎀🎮 𝐂𝐎𝐃𝐈𝐍𝐆 𝐆𝐀𝐌𝐄 𝐙𝐎𝐍𝐄 🎮🎀
 
-<img src="./anime-girl.gif" width="145"/>
+<img src="./anime-girl.gif" width="155"/>
 
-### 🌷 𝓗𝓲𝓲! 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓣𝓸 𝓜𝔂 𝓛𝓲𝓽𝓽𝓵𝓮 𝓣𝓮𝓬𝓱 𝓦𝓸𝓻𝓵𝓭! 🌷
-
-🌸 🩷 🎀 🦋 ✨ 💜 🌷 ✨ 🦋 🎀 🩷 🌸
+### 🌸 𝓦𝓱𝓮𝓻𝓮 𝓒𝓸𝓭𝓲𝓷𝓰 𝓜𝓮𝓮𝓽𝓼 𝓒𝓻𝓮𝓪𝓽𝓲𝓿𝓲𝓽𝔂 🌸
 
 <table>
 <tr>
 
-<td align="center">
+<td align="center" width="25%">
 
-<a href="https://github.com/Varalakshmi74">
-<img src="https://img.shields.io/badge/🌸%20GITHUB-000000?style=for-the-badge&logo=github&logoColor=ff69b4"/>
-</a>
+### 🎯
 
-<br>
-<sub>𝓒𝓸𝓭𝓮 & 𝓟𝓻𝓸𝓳𝓮𝓬𝓽𝓼</sub>
+**𝐏𝐑𝐎𝐁𝐋𝐄𝐌 𝐒𝐎𝐋𝐕𝐄𝐑**
 
-</td>
-
-<td align="center">
-
-<a href="https://www.linkedin.com/in/varalakshmi-udhayakumar-2389a8328">
-<img src="https://img.shields.io/badge/💼%20LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=ff69b4"/>
-</a>
-
-<br>
-<sub>𝐏𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐚𝐥</sub>
+🧠 Think  
+💡 Solve  
+⚡ Code
 
 </td>
 
-<td align="center">
+<td align="center" width="25%">
 
-<a href="https://leetcode.com/u/varalakshmi-udhayakumar">
-<img src="https://img.shields.io/badge/🧩%20LEETCODE-000000?style=for-the-badge&logo=leetcode&logoColor=ff69b4"/>
-</a>
+### 💻
 
-<br>
-<sub>𝙲𝚘𝚍𝚒𝚗𝚐 & 𝙲𝚑𝚊𝚕𝚕𝚎𝚗𝚐𝚎𝚜</sub>
+**𝐂𝐎𝐃𝐄 𝐁𝐔𝐈𝐋𝐃𝐄𝐑**
+
+🐍 Python  
+☕ Java  
+⚡ C/C++
 
 </td>
 
-<td align="center">
+<td align="center" width="25%">
 
-<a href="mailto:varalakshmiudhayakumar84@gmail.com">
-<img src="https://img.shields.io/badge/💌%20EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=ff69b4"/>
-</a>
+### 🤖
 
-<br>
-<sub>𝓛𝓮𝓽'𝓼 𝓣𝓪𝓵𝓴</sub>
+**𝐀𝐈 𝐄𝐗𝐏𝐋𝐎𝐑𝐄𝐑**
+
+🧠 AI  
+👁️ Vision  
+✨ Ideas
+
+</td>
+
+<td align="center" width="25%">
+
+### 🎮
+
+**𝐆𝐀𝐌𝐄 𝐂𝐑𝐄𝐀𝐓𝐎𝐑**
+
+🎯 Design  
+🕹️ Logic  
+🎨 Creativity
 
 </td>
 
@@ -543,24 +543,102 @@ Responsive UI
 
 <br>
 
-<img src="./anime-girl.gif" width="120"/>
-
-### 🩷 𝓛𝓮𝓽'𝓼 𝓒𝓸𝓭𝓮 𝓢𝓸𝓶𝓮𝓽𝓱𝓲𝓷𝓰 𝓐𝓶𝓪𝔃𝓲𝓷𝓰! ✨
-
-🌸 🩷 🖤 💜 🎀 🦋 ✨ 🌷 ✨ 🦋 🎀 💜 🖤 🩷 🌸
-
-### 🤖 𝑨𝑰 & 𝑴𝑳 &nbsp; ✦ &nbsp; 💻 𝑾𝒆𝒃 &nbsp; ✦ &nbsp; 🎮 𝑮𝒂𝒎𝒆 𝑫𝒆𝒔𝒊𝒈𝒏 &nbsp; ✦ &nbsp; 🎨 𝑪𝒓𝒆𝒂𝒕𝒊𝒗𝒊𝒕𝒚
+<img src="./anime-girl.gif" width="110"/>
 
 <br>
 
-**🌸 𝐕𝐀𝐑𝐀𝐋𝐀𝐊𝐒𝐇𝐌𝐈 𝐔𝐃𝐇𝐘𝐀𝐊𝐔𝐌𝐀𝐑 🌸**
+### 🩷 𝑻𝒉𝒊𝒏𝒌 • 𝑪𝒐𝒅𝒆 • 𝑷𝒍𝒂𝒚 • 𝑪𝒓𝒆𝒂𝒕𝒆 • 𝑾𝒊𝒏 🩷
+
+<br>
+
+🌸 🩷 🎀 🦋 💜 🎮 ✨ 🤖 ✨ 🎮 💜 🦋 🎀 🩷 🌸
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:800080,50:ff1493,100:000000&height=150&section=footer"/>
+---
 
 <div align="center">
 
-### 🩷✨ 𝓒𝓸𝓭𝓮 • 𝓒𝓻𝓮𝓪𝓽𝓮 • 𝓟𝓵𝓪𝔂 • 𝓘𝓷𝓷𝓸𝓿𝓪𝓽𝓮 ✨🩷
+# 💌🌸 𝐋𝐄𝐓'𝐒 𝐂𝐎𝐍𝐍𝐄𝐂𝐓 🌸💌
+
+<img src="./anime-girl.gif" width="150"/>
+
+### 🌷 𝓛𝓮𝓽'𝓼 𝓒𝓸𝓷𝓷𝓮𝓬𝓽, 𝓒𝓸𝓵𝓵𝓪𝓫𝓸𝓻𝓪𝓽𝓮 & 𝓒𝓻𝓮𝓪𝓽𝓮! 🌷
+
+<br>
+
+<a href="https://github.com/Varalakshmi74">
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=ff69b4"/>
+</a>
+
+<a href="https://www.linkedin.com/in/varalakshmi-udhayakumar-2389a8328">
+<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=ff69b4"/>
+</a>
+
+<a href="https://leetcode.com/u/varalakshmi-udhayakumar">
+<img src="https://img.shields.io/badge/LEETCODE-000000?style=for-the-badge&logo=leetcode&logoColor=ff69b4"/>
+</a>
+
+<a href="mailto:varalakshmiudhayakumar84@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=ff69b4"/>
+</a>
+
+<br><br>
+
+<table>
+<tr>
+
+<td align="center">
+
+### 🩷 𝓒𝓸𝓭𝓮
+
+**𝓣𝓾𝓻𝓷 𝓘𝓭𝓮𝓪𝓼 𝓘𝓷𝓽𝓸 𝓡𝓮𝓪𝓵𝓲𝓽𝔂**
+
+</td>
+
+<td align="center">
+
+### 💜 𝓛𝓮𝓪𝓻𝓷
+
+**𝓚𝓮𝓮𝓹 𝓖𝓻𝓸𝔀𝓲𝓷𝓰 𝓔𝓿𝓮𝓻𝔂 𝓓𝓪𝔂**
+
+</td>
+
+<td align="center">
+
+### 🌸 𝓒𝓻𝓮𝓪𝓽𝓮
+
+**𝓜𝓪𝓴𝓮 𝓢𝓸𝓶𝓮𝓽𝓱𝓲𝓷𝓰 𝓤𝓷𝓲𝓺𝓾𝓮**
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+🌸 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 🌸
+
+<br>
+
+### 💗 𝐕𝐀𝐑𝐀𝐋𝐀𝐊𝐒𝐇𝐌𝐈 𝐔𝐃𝐇𝐘𝐀𝐊𝐔𝐌𝐀𝐑 💗
+
+### 🤖 𝑨𝑰 & 𝑴𝑳 &nbsp; ✦ &nbsp; 💻 𝑾𝒆𝒃 &nbsp; ✦ &nbsp; 🎮 𝑮𝒂𝒎𝒆𝒔 &nbsp; ✦ &nbsp; 🌸 𝑪𝒓𝒆𝒂𝒕𝒊𝒗𝒊𝒕𝒚
+
+<br>
+
+<img src="./anime-girl.gif" width="115"/>
+
+<br><br>
+
+🌸 🩷 🎀 🦋 ✨ 💜 🌷 💜 ✨ 🦋 🎀 🩷 🌸
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,35:800080,65:ff1493,100:050505&height=160&section=footer"/>
+
+<div align="center">
+
+### 🩷✨ 𝓒𝓸𝓭𝓮 • 𝓒𝓻𝓮𝓪𝓽𝓮 • 𝓘𝓷𝓷𝓸𝓿𝓪𝓽𝓮 ✨🩷
 
 </div>
