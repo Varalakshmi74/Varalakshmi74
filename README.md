@@ -395,11 +395,171 @@ Creative Prototypes
 
 <div align="center">
 
-# 🐍🩷 𝐂𝐎𝐍𝐓𝐑𝐈𝐁𝐔𝐓𝐈𝐎𝐍 𝐆𝐀𝐌𝐄 🩷🐍
+<!-- ========================================================= -->
+<!--              CONTRIBUTION GAME ZONE                      -->
+<!-- ========================================================= -->
 
-<img src="https://raw.githubusercontent.com/Varalakshmi74/Varalakshmi74/output/github-snake-dark.svg" width="95%"/>
+<div align="center">
+
+# 🐍🎮🩷 𝐂𝐎𝐍𝐓𝐑𝐈𝐁𝐔𝐓𝐈𝐎𝐍 𝐆𝐀𝐌𝐄 𝐙𝐎𝐍𝐄 🩷🎮🐍
+
+<img src="./anime-girl.gif" width="150" alt="Anime Girl"/>
+
+### 🎀 𝓒𝓸𝓭𝓲𝓷𝓰 𝓘𝓼 𝓜𝔂 𝓖𝓪𝓶𝓮 — 𝓔𝓿𝓮𝓻𝔂 𝓒𝓸𝓷𝓽𝓻𝓲𝓫𝓾𝓽𝓲𝓸𝓷 𝓘𝓼 𝓐 𝓝𝓮𝔀 𝓜𝓸𝓿𝓮! 🎀
+
+<br>
+
+🌸 🩷 🎮 🦋 ✨ 💜 🐍 💜 ✨ 🦋 🎮 🩷 🌸
 
 <br><br>
+
+<!-- GAME STATUS -->
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### 🎯
+
+**𝐂𝐎𝐃𝐈𝐍𝐆**
+
+💻  
+𝑾𝒓𝒊𝒕𝒆  
+𝑺𝒐𝒍𝒗𝒆  
+𝑩𝒖𝒊𝒍𝒅
+
+</td>
+
+<td align="center" width="25%">
+
+### 🐍
+
+**𝐂𝐎𝐍𝐓𝐑𝐈𝐁𝐔𝐓𝐄**
+
+🌱  
+𝑪𝒐𝒎𝒎𝒊𝒕  
+𝑷𝒖𝒔𝒉  
+𝑮𝒓𝒐𝒘
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚡
+
+**𝐂𝐎𝐍𝐐𝐔𝐄𝐑**
+
+🔥  
+𝑳𝒆𝒂𝒓𝒏  
+𝑰𝒎𝒑𝒓𝒐𝒗𝒆  
+𝑾𝒊𝒏
+
+</td>
+
+<td align="center" width="25%">
+
+### 🏆
+
+**𝐋𝐄𝐕𝐄𝐋 𝐔𝐏**
+
+✨  
+𝑵𝒆𝒘 𝑰𝒅𝒆𝒂𝒔  
+𝑵𝒆𝒘 𝑺𝒌𝒊𝒍𝒍𝒔  
+𝑵𝒆𝒘 𝑮𝒐𝒂𝒍𝒔
+
+</td>
+
+</tr>
+</table>
+
+<br><br>
+
+<!-- SNAKE GAME -->
+
+## 🐍✨ 𝐌𝐘 𝐆𝐈𝐓𝐇𝐔𝐁 𝐒𝐍𝐀𝐊𝐄 𝐆𝐀𝐌𝐄 ✨🐍
+
+<img src="https://raw.githubusercontent.com/Varalakshmi74/Varalakshmi74/output/github-snake-dark.svg" width="95%" alt="GitHub Contribution Snake"/>
+
+<br><br>
+
+### 🎮 𝓒𝓸𝓵𝓵𝓮𝓬𝓽 𝓒𝓸𝓷𝓽𝓻𝓲𝓫𝓾𝓽𝓲𝓸𝓷𝓼 • 𝓖𝓻𝓸𝔀 𝓨𝓸𝓾𝓻 𝓢𝓴𝓲𝓵𝓵𝓼 • 𝓛𝓮𝓿𝓮𝓵 𝓤𝓹 🚀
+
+<br>
+
+🌸 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 🌸
+
+<br>
+
+<!-- GAME RULES -->
+
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+### 🩷 𝐋𝐄𝐕𝐄𝐋 𝟎𝟏
+
+🌱 **START**
+
+<br>
+
+Learn  
+Explore  
+Experiment
+
+</td>
+
+<td align="center" width="33%">
+
+### 💜 𝐋𝐄𝐕𝐄𝐋 𝟎𝟐
+
+### 🔥 **BUILD**
+
+<br>
+
+Code  
+Create  
+Contribute
+
+</td>
+
+<td align="center" width="33%">
+
+### 🌸 𝐋𝐄𝐕𝐄𝐋 𝟎𝟑
+
+### 🏆 **GROW**
+
+<br>
+
+Improve  
+Innovate  
+Repeat
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<img src="./anime-girl.gif" width="110" alt="Anime Coding Girl"/>
+
+<br>
+
+### 🩷 𝐄𝐕𝐄𝐑𝐘 𝐂𝐎𝐌𝐌𝐈𝐓 𝐈𝐒 𝐀 𝐒𝐓𝐄𝐏 𝐅𝐎𝐑𝐖𝐀𝐑𝐃 🩷
+
+### ✨ 𝑪𝒐𝒅𝒆 → 𝑪𝒐𝒏𝒕𝒓𝒊𝒃𝒖𝒕𝒆 → 𝑳𝒆𝒂𝒓𝒏 → 𝑳𝒆𝒗𝒆𝒍 𝑼𝒑 ✨
+
+<br>
+
+🌸 🩷 🎀 🐍 🎮 🦋 💜 🦋 🎮 🐍 🎀 🩷 🌸
+
+</div>
+
+<!-- ========================================================= -->
+<!--                  END CONTRIBUTION GAME                   -->
+<!-- ========================================================= -->
 
 ### 🎮 𝓚𝓮𝓮𝓹 𝓒𝓸𝓭𝓲𝓷𝓰 • 𝓚𝓮𝓮𝓹 𝓒𝓸𝓷𝓽𝓻𝓲𝓫𝓾𝓽𝓲𝓷𝓰 • 𝓚𝓮𝓮𝓹 𝓖𝓻𝓸𝔀𝓲𝓷𝓰 🎮
 
