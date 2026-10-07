@@ -267,78 +267,68 @@ Responsive UI
 
 
 
-# 🎀🩷 𝐋𝐄𝐓'𝐒 𝐂𝐎𝐍𝐍𝐄𝐂𝐓 🩷🎀
+
+
+# 🎀🌸🩷 𝐋𝐄𝐓'𝐒 𝐂𝐎𝐍𝐍𝐄𝐂𝐓 🩷🌸🎀
+
 <div align="center">
 
 # 🎀🌸🩷 𝐋𝐄𝐓'𝐒 𝐂𝐎𝐍𝐍𝐄𝐂𝐓 🩷🌸🎀
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ff1493,100:800080&height=5&section=header&text=" width="80%"/>
+<img src="./anime-girl.gif" width="145" alt="Anime Girl"/>
 
-### 🌷 𝓒𝓸𝓶𝓮 𝓢𝓪𝔂 𝓗𝓲! 𝓛𝓮𝓽'𝓼 𝓒𝓸𝓷𝓷𝓮𝓬𝓽 & 𝓒𝓸𝓵𝓵𝓪𝓫𝓸𝓻𝓪𝓽𝓮 ✨
+### 🌷 𝓗𝓲𝓲! 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓣𝓸 𝓜𝔂 𝓛𝓲𝓽𝓽𝓵𝓮 𝓣𝓮𝓬𝓱 𝓦𝓸𝓻𝓵𝓭! 🌷
 
-🌸 💗 🎀 ✨ 🦋 ✨ 🎀 💗 🌸
-
-<br>
-
-<a href="https://github.com/Varalakshmi74">
-<img src="https://img.shields.io/badge/♡%20GITHUB-000000?style=for-the-badge&logo=github&logoColor=ff69b4"/>
-</a>
-
-<a href="https://www.linkedin.com/in/varalakshmi-udhayakumar-2389a8328">
-<img src="https://img.shields.io/badge/♡%20LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=ff69b4"/>
-</a>
-
-<a href="https://leetcode.com/u/varalakshmi-udhayakumar">
-<img src="https://img.shields.io/badge/♡%20LEETCODE-000000?style=for-the-badge&logo=leetcode&logoColor=ff69b4"/>
-</a>
-
-<a href="mailto:varalakshmiudhayakumar84@gmail.com">
-<img src="https://img.shields.io/badge/♡%20EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=ff69b4"/>
-</a>
-
-<br><br>
+🌸 🩷 🎀 🦋 ✨ 💜 🌷 ✨ 🦋 🎀 🩷 🌸
 
 <table>
 <tr>
-<td align="center" width="25%">
 
-🌸<br>
-<b>𝓖𝓲𝓽𝓗𝓾𝓫</b><br>
-<sub>𝑪𝒐𝒅𝒆 & 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔</sub>
-
+<td align="center">
+<a href="https://github.com/Varalakshmi74">
+<img src="https://img.shields.io/badge/🌸%20GITHUB-000000?style=for-the-badge&logo=github&logoColor=ff69b4"/>
+</a>
+<br>
+<sub><b>𝓒𝓸𝓭𝓮 & 𝓟𝓻𝓸𝓳𝓮𝓬𝓽𝓼</b></sub>
 </td>
 
-<td align="center" width="25%">
-
-💼<br>
-<b>𝐋𝐢𝐧𝐤𝐞𝐝𝐈𝐧</b><br>
-<sub>𝑷𝒓𝒐𝒇𝒆𝒔𝒔𝒊𝒐𝒏𝒂𝒍</sub>
-
+<td align="center">
+<a href="https://www.linkedin.com/in/varalakshmi-udhayakumar-2389a8328">
+<img src="https://img.shields.io/badge/💼%20LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=ff69b4"/>
+</a>
+<br>
+<sub><b>𝐏𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐚𝐥</b></sub>
 </td>
 
-<td align="center" width="25%">
-
-🧩<br>
-<b>𝙻𝚎𝚎𝚝𝙲𝚘𝚍𝚎</b><br>
-<sub>𝑪𝒐𝒅𝒊𝒏𝒈 & 𝑷𝒓𝒐𝒃𝒍𝒆𝒎𝒔</sub>
-
+<td align="center">
+<a href="https://leetcode.com/u/varalakshmi-udhayakumar">
+<img src="https://img.shields.io/badge/🧩%20LEETCODE-000000?style=for-the-badge&logo=leetcode&logoColor=ff69b4"/>
+</a>
+<br>
+<sub><b>𝙲𝚘𝚍𝚒𝚗𝚐 & 𝙲𝚑𝚊𝚕𝚕𝚎𝚗𝚐𝚎𝚜</b></sub>
 </td>
 
-<td align="center" width="25%">
-
-💌<br>
-<b>𝑬𝒎𝒂𝒊𝒍</b><br>
-<sub>𝑳𝒆𝒕'𝒔 𝑻𝒂𝒍𝒌</sub>
-
+<td align="center">
+<a href="mailto:varalakshmiudhayakumar84@gmail.com">
+<img src="https://img.shields.io/badge/💌%20EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=ff69b4"/>
+</a>
+<br>
+<sub><b>𝓛𝓮𝓽'𝓼 𝓣𝓪𝓵𝓴</b></sub>
 </td>
+
 </tr>
 </table>
 
-<br>
+🌸 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 🌸
 
-🌷 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 🌷
+<table>
+<tr>
 
-### 💌 𝐌𝐘 𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐈𝐎𝐍𝐒 💌
+<td align="center" width="50%">
+
+<img src="./anime-girl.gif" width="125" alt="Anime Girl"/>
+
+### 💗 𝐂𝐎𝐍𝐍𝐄𝐂𝐓 𝐖𝐈𝐓𝐇 𝐌𝐄
 
 📧 **𝓔𝓶𝓪𝓲𝓵**  
 `varalakshmiudhayakumar84@gmail.com`
@@ -346,22 +336,48 @@ Responsive UI
 💻 **𝐆𝐢𝐭𝐇𝐮𝐛**  
 `@Varalakshmi74`
 
+</td>
+
+<td align="center" width="50%">
+
+<img src="./anime-girl.gif" width="125" alt="Anime Girl"/>
+
+### 🎀 𝐅𝐈𝐍𝐃 𝐌𝐄 𝐎𝐍
+
 🧩 **𝙻𝚎𝚎𝚝𝙲𝚘𝚍𝚎**  
 `@varalakshmi-udhayakumar`
 
 💼 **𝓛𝓲𝓷𝓴𝓮𝓭𝓘𝓷**  
 `@varalakshmi-udhayakumar`
 
-🌷 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 🌷
+</td>
 
-<br>
+</tr>
+</table>
+
+🌷 🦋 ✨ 🎀 💗 🌸 💜 🌸 💗 🎀 ✨ 🦋 🌷
 
 ### 🩷 𝓛𝓮𝓽'𝓼 𝓒𝓸𝓭𝓮 𝓢𝓸𝓶𝓮𝓽𝓱𝓲𝓷𝓰 𝓐𝓶𝓪𝔃𝓲𝓷𝓰! ✨
 
-🌸 🦋 🎀 💗 ✨ 💜 ✨ 💗 🎀 🦋 🌸
+<img src="./anime-girl.gif" width="105" alt="Cute Anime"/>
 
-<h2>𝓒𝓸𝓭𝓮 • 𝓒𝓻𝓮𝓪𝓽𝓮 • 𝓟𝓵𝓪𝔂 • 𝓘𝓷𝓷𝓸𝓿𝓪𝓽𝓮</h2>
+<br>
 
+<h3>🌸 𝐕𝐀𝐑𝐀𝐋𝐀𝐊𝐒𝐇𝐌𝐈 𝐔𝐃𝐇𝐘𝐀𝐊𝐔𝐌𝐀𝐑 🌸</h3>
+
+<p>
+<b>🤖 𝑨𝑰 & 𝑴𝑳</b>
+&nbsp; ✦ &nbsp;
+<b>💻 𝑾𝒆𝒃</b>
+&nbsp; ✦ &nbsp;
+<b>🎮 𝑮𝒂𝒎𝒆 𝑫𝒆𝒔𝒊𝒈𝒏</b>
+&nbsp; ✦ &nbsp;
+<b>🎨 𝑪𝒓𝒆𝒂𝒕𝒊𝒗𝒊𝒕𝒚</b>
+</p>
+
+🌸 🩷 🖤 💜 🎀 🦋 ✨ 🌷 ✨ 🦋 🎀 💜 🖤 🩷 🌸
+
+</div>
 <h3>🌸 𝐕𝐀𝐑𝐀𝐋𝐀𝐊𝐒𝐇𝐌𝐈 𝐔𝐃𝐇𝐘𝐀𝐊𝐔𝐌𝐀𝐑 🌸</h3>
 
 <p>
