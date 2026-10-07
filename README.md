@@ -1,62 +1,62 @@
-Create a GitHub Profile README.md that looks like a complete modern personal portfolio webpage when opened on GitHub.
+Create my GitHub Profile README.md as a FULL PORTFOLIO WEBPAGE style profile.
 
 IMPORTANT:
-I DO NOT want a simple README with plain text.
-I want the GitHub profile page to visually look like a beautiful interactive website/portfolio using GitHub-supported HTML and Markdown.
+I want it to look like a beautiful personal website when someone opens my GitHub profile — NOT like a normal plain README.
 
-My details:
 Name: Varalakshmi Udhayakumar
-GitHub: Varalakshmi74
+GitHub Username: Varalakshmi74
 
-DESIGN:
-- Full dark black background aesthetic
+🎀 DESIGN STYLE:
+- Black/dark background
 - Pink + purple neon theme
-- Beautiful anime girl developer illustration at the top
-- Anime girl should look like she is saying "Hi 👋"
-- Lots of small flowers 🌸 around the design
-- Stars ✨ and glowing effects
-- 3D-style cards
-- Glassmorphism sections
-- Neon pink borders
-- Modern futuristic developer portfolio design
-- Stylish typography
-- Different font sizes and colors
-- Attractive spacing
-- Center-aligned hero section
-- Make it look like a real portfolio webpage
+- Cute anime girl developer sticker/illustration
+- MANY beautiful flower decorations 🌸🌷🌺
+- Floating flower stickers around different sections
+- Cute anime stickers placed around the page
+- Stars ✨, sparkles and glowing particles
+- Pink neon glowing borders
+- Glassmorphism cards
+- 3D-looking cards and buttons
+- Cute but professional developer portfolio
+- Attractive animations/GIFs supported by GitHub
+- Make it look like a real aesthetic webpage
 
-PAGE STRUCTURE:
+🌸 HERO SECTION:
+Create a large attractive hero section.
 
-1. HERO SECTION
-Create a large beautiful hero area:
-
+Text:
 "Hi 👋 I'm Varalakshmi Udhayakumar"
 
 Subtitle:
 "Computer Science Student | AI/ML Enthusiast | Full Stack Developer"
 
 Add:
-- Anime girl developer image
-- Animated typing effect if possible
-- Pink glowing buttons
-- GitHub button
-- LinkedIn button
-- LeetCode button
+- Large cute anime girl sticker on one side
+- Flowers around the anime girl
+- Small floating flower stickers
+- Stars and sparkles
+- Pink glowing effect
+- Animated typing text
+- GitHub / LinkedIn / LeetCode glowing buttons
 
-2. ABOUT ME
-Create a beautiful glassmorphism card titled:
+🌷 ABOUT ME:
+Create a glassmorphism card titled:
+
 "🌸 About Me"
 
-Write a short student-friendly introduction about me.
+Add a short student-friendly introduction.
+
 Mention:
 - AI/ML
 - Web Development
 - Software Development
 - Computer Networks
-- Text & Speech Analysis
+- NLP / Text & Speech Analysis
 - Problem Solving
 
-3. SKILLS
+Decorate this section with small anime stickers and flowers.
+
+💻 TECHNICAL SKILLS:
 Create beautiful 3D/glass cards.
 
 Frontend:
@@ -74,45 +74,40 @@ Python, Machine Learning, NLP
 Tools:
 Git, GitHub, VS Code
 
-Use technology icons wherever possible.
+Use technology icons and cute flower decorations.
 
-4. PROJECTS
-Create a beautiful portfolio project section with cards.
+🌸 PROJECTS:
+Create beautiful project cards like a portfolio website.
 
 Projects:
-- SelfAdapt AI
-- Industrial Fire Safety System
-- ScamShield AI
-- Student Study Assistant
-- Cloud Ambulance Route Optimization
-- Online Gaming Network Latency Monitor
+1. SelfAdapt AI
+2. Industrial Fire Safety System
+3. ScamShield AI
+4. Student Study Assistant
+5. Cloud Ambulance Route Optimization
+6. Online Gaming Network Latency Monitor
 
-Each project card should have:
-- Project name
+Each card should contain:
+- Project title
 - Short description
-- Technology used
+- Technologies
 - GitHub button
+- Small anime/flower sticker
 
-5. GITHUB ANALYTICS
-Create a stylish dashboard-like section containing:
+🌺 GITHUB STATS:
+Create a beautiful dashboard section containing:
+
 - GitHub Stats
 - Top Languages
 - GitHub Streak
-- Contribution graph
+- Contribution Graph
 
-Make this section look like a dashboard.
+Use pink/purple styling.
 
-6. CODING PROFILES
-Create 3 beautiful glowing buttons/cards:
+Add flowers and small anime stickers around the dashboard.
 
-GitHub
-LinkedIn
-LeetCode
-
-Use placeholder links for LinkedIn and LeetCode if the exact links are unavailable.
-
-7. ACHIEVEMENTS
-Create small glowing cards for:
+✨ ACHIEVEMENTS:
+Create glowing cards:
 
 🏆 Hackathons
 🤖 AI Projects
@@ -120,8 +115,8 @@ Create small glowing cards for:
 🧠 Problem Solving
 🌐 Computer Networks
 
-8. CURRENTLY LEARNING
-Create a futuristic card:
+🌷 CURRENTLY LEARNING:
+Create a cute futuristic card:
 
 "🚀 Currently Learning"
 
@@ -131,31 +126,43 @@ Create a futuristic card:
 - Cloud Technologies
 - Cyber Security
 
-9. CONTACT
-Create a beautiful contact section:
+Add a cute anime girl sticker holding a laptop.
+
+💗 CONTACT:
+Create a beautiful section:
 
 "Let's Build Something Amazing Together 💗"
 
-Add GitHub, LinkedIn and email buttons.
+Add:
+GitHub
+LinkedIn
+LeetCode
+Email
 
-10. FOOTER
-Create a beautiful centered footer:
+Use glowing pink buttons with flower decorations.
+
+🌸 FOOTER:
+Create a cute centered footer:
 
 "✨ Building ideas • Learning every day • Creating the future ✨"
 
-Add flowers and stars around the footer.
+Add:
+🌸 🌷 🌺 ✨ 🌸 🌷 🌺
 
-IMPORTANT GITHUB README REQUIREMENTS:
-- Output ONLY the complete README.md code.
-- Use HTML + Markdown supported by GitHub.
-- Use tables/cards/divs where GitHub supports them.
-- Use shields/badges where useful.
-- Use working image/GIF URLs.
-- Avoid broken images.
-- Do NOT create a separate HTML website.
+Also place a cute anime sticker near the footer.
+
+IMPORTANT GITHUB README RULES:
 - Everything must be inside README.md.
-- Make the profile visually resemble a real portfolio webpage.
-- Make it highly attractive, modern, professional and unique.
-- Pink + black + purple neon aesthetic.
-- Add animations wherever GitHub README supports them.
-- Make the first screen especially impressive.
+- Use HTML + Markdown supported by GitHub.
+- Make it look like a complete portfolio webpage.
+- Use animated GIFs/images where GitHub supports them.
+- Use cute anime girl stickers and flower stickers.
+- Use multiple flower decorations throughout the page.
+- Use transparent PNG/GIF style stickers whenever possible.
+- Do NOT use broken image URLs.
+- Keep the layout clean and professional despite the decorations.
+- Use pink, black, purple and white.
+- Add hover-style effects only where GitHub supports them.
+- Make the hero section extremely attractive.
+- Make the final README copy-paste ready.
+- OUTPUT ONLY THE COMPLETE README.md CODE.
