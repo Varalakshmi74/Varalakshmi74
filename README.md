@@ -483,8 +483,6 @@ Creative Prototypes
 
 <div align="center">
 
-<h2>🐍🎮 𝐆𝐈𝐓𝐇𝐔𝐁 𝐒𝐍𝐀𝐊𝐄 𝐆𝐀𝐌𝐄 🎮🐍</h2>
-
 <p>
 🌸 𝓒𝓸𝓵𝓵𝓮𝓬𝓽 𝓜𝔂 𝓒𝓸𝓷𝓽𝓻𝓲𝓫𝓾𝓽𝓲𝓸𝓷𝓼 🌸
 </p>
@@ -780,7 +778,97 @@ Innovate
 
 # 💌🌸 𝐋𝐄𝐓'𝐒 𝐂𝐎𝐍𝐍𝐄𝐂𝐓 🌸💌
 
-<img src="./anime-girl.gif" width="150"/>
+<div align="center">
+
+<img src="./anime-girl.gif" width="180" alt="Anime Girl"/>
+
+### 🌷 𝓗𝓲𝓲! 𝓛𝓮𝓽'𝓼 𝓒𝓸𝓷𝓷𝓮𝓬𝓽 & 𝓒𝓸𝓵𝓵𝓪𝓫𝓸𝓻𝓪𝓽𝓮 ✨
+
+🌸 💗 🎀 🦋 ✨ 🦋 🎀 💗 🌸
+
+<br>
+
+<a href="https://github.com/Varalakshmi74">
+<img src="https://img.shields.io/badge/♡%20GITHUB-000000?style=for-the-badge&logo=github&logoColor=ff69b4"/>
+</a>
+
+<a href="https://www.linkedin.com/in/varalakshmi-udhayakumar-2389a8328">
+<img src="https://img.shields.io/badge/♡%20LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=ff69b4"/>
+</a>
+
+<a href="https://leetcode.com/u/varalakshmi-udhayakumar">
+<img src="https://img.shields.io/badge/♡%20LEETCODE-000000?style=for-the-badge&logo=leetcode&logoColor=ff69b4"/>
+</a>
+
+<a href="mailto:varalakshmiudhayakumar84@gmail.com">
+<img src="https://img.shields.io/badge/♡%20EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=ff69b4"/>
+</a>
+
+<br><br>
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+🌸<br>
+<b>𝓖𝓲𝓽𝓗𝓾𝓫</b><br>
+<sub>𝑪𝒐𝒅𝒆 • 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔</sub>
+</td>
+
+<td align="center" width="25%">
+💼<br>
+<b>𝐋𝐢𝐧𝐤𝐞𝐝𝐈𝐧</b><br>
+<sub>𝑷𝒓𝒐𝒇𝒆𝒔𝒔𝒊𝒐𝒏𝒂𝒍</sub>
+</td>
+
+<td align="center" width="25%">
+🧩<br>
+<b>𝙻𝚎𝚎𝚝𝙲𝚘𝚍𝚎</b><br>
+<sub>𝑪𝒐𝒅𝒊𝒏𝒈 • 𝑷𝒓𝒂𝒄𝒕𝒊𝒄𝒆</sub>
+</td>
+
+<td align="center" width="25%">
+💌<br>
+<b>𝑬𝒎𝒂𝒊𝒍</b><br>
+<sub>𝑳𝒆𝒕'𝒔 𝑻𝒂𝒍𝒌</sub>
+</td>
+
+</tr>
+</table>
+
+<br>
+
+🌷 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 🌷
+
+### 💌 𝐌𝐘 𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐈𝐎𝐍𝐒 💌
+
+📧 **𝓔𝓶𝓪𝓲𝓵:** `varalakshmiudhayakumar84@gmail.com`  
+💻 **𝐆𝐢𝐭𝐇𝐮𝐛:** `@Varalakshmi74`  
+🧩 **𝙻𝚎𝚎𝚝𝙲𝚘𝚍𝚎:** `@varalakshmi-udhayakumar`  
+💼 **𝓛𝓲𝓷𝓴𝓮𝓭𝓘𝓷:** `@varalakshmi-udhayakumar`
+
+🌷 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 🌷
+
+<img src="./anime-girl.gif" width="120" alt="Cute Anime Sticker"/>
+
+### 🩷 𝓛𝓮𝓽'𝓼 𝓒𝓸𝓭𝓮 𝓢𝓸𝓶𝓮𝓽𝓱𝓲𝓷𝓰 𝓐𝓶𝓪𝔃𝓲𝓷𝓰! ✨
+
+🌸 🦋 🎀 💗 ✨ 💜 ✨ 💗 🎀 🦋 🌸
+
+<h2>𝓒𝓸𝓭𝓮 • 𝓒𝓻𝓮𝓪𝓽𝓮 • 𝓟𝓵𝓪𝔂 • 𝓘𝓷𝓷𝓸𝓿𝓪𝓽𝓮</h2>
+
+<h3>🌸 𝐕𝐀𝐑𝐀𝐋𝐀𝐊𝐒𝐇𝐌𝐈 𝐔𝐃𝐇𝐘𝐀𝐊𝐔𝐌𝐀𝐑 🌸</h3>
+
+<p>
+<b>🩷 𝑨𝑰 & 𝑴𝑳</b> ✦
+<b>💻 𝑾𝒆𝒃</b> ✦
+<b>🎮 𝑮𝒂𝒎𝒆 𝑫𝒆𝒔𝒊𝒈𝒏</b> ✦
+<b>🌸 𝑪𝒓𝒆𝒂𝒕𝒊𝒗𝒊𝒕𝒚</b>
+</p>
+
+🌸🩷🖤💜🎀🦋✨🌸🩷🖤💜🎀🦋✨
+
+</div>
 
 ### 🌷 𝓛𝓮𝓽'𝓼 𝓒𝓸𝓷𝓷𝓮𝓬𝓽, 𝓒𝓸𝓵𝓵𝓪𝓫𝓸𝓻𝓪𝓽𝓮 & 𝓒𝓻𝓮𝓪𝓽𝓮! 🌷
 
